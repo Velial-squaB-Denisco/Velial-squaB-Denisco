@@ -16,59 +16,44 @@
 </div>
 
 <!-- Стек технологий -->
-<h2 align="center">🛠️ Технологический арсенал</h2>
-<div align="center">
-  
-| **Языки**        | **Базы данных**   | **Инструменты**      | **Прочее**          |
-|-------------------|-------------------|----------------------|---------------------|
-| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=py) ![VBA](https://img.shields.io/badge/VBA-Expert-217346?logo=microsoft-excel) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) ![Loginom](https://img.shields.io/badge/Loginom-Expert-0088CC?logo=azure-devops) |
-
-</div>
+<h2 align="center">🛠️ Технологии</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,vba,postgres,vscode,git,github,linux" />
+  <br>
+  <img src="https://www.ubackup.com/images/article-images/outlook-vba-save-attachments-0025-rc.png" width="40"> 
+  <img src="https://brandbook.loginom.ru/assets/img/logo.svg" width="110">
+</p>
 
 <!-- Проекты -->
 <details open> 
 <summary><h2>🚀 Ключевые проекты</h2></summary>
 
-### 🏭 Черкизово
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖-Автоматизация_процессов-00CC96?style=for-the-badge">
-</div>
-
+### Черкизово
+[![Badge](https://img.shields.io/badge/🤖-Автоматизация_процессов-00CC96)]()
 - Оптимизация бизнес-процессов
 - Аналитика данных в Power BI
 - Интеграция с ERP-системами
 
 ---
 
-### 🔬 Mars (Royal Canin)
-<div align="center">
-  <img src="https://img.shields.io/badge/🧪-Лабораторная_автоматизация-FF6F91?style=for-the-badge">
-  <img src="https://img.shields.io/badge/📨-Система_запросов-00B4FF?style=for-the-badge">
-</div>
-
+### Mars (Royal Canin)
+[![Badge](https://img.shields.io/badge/🧪-Лабораторная_автоматизация-FF6F91)]()
 - Разработка инструментов для лаборатории
 - Автоматизированная система запросов
 - Генерация отчетов в реальном времени
 
 ---
 
-### 📈 Mars
-<div align="center">
-  <img src="https://img.shields.io/badge/📊-Бизнес--аналитика-00B4FF?style=for-the-badge">
-</div>
-
+### Mars
+[![Badge](https://img.shields.io/badge/📊-Бизнес--аналитика-00B4FF)]()
 - Анализ данных для стратегических решений
 - Построение прогнозных моделей
 - Визуализация KPI в Tableau
 
 ---
 
-### 📊 Loginom
-<div align="center">
-  <img src="https://img.shields.io/badge/📈-Data_Engineering-00B4FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🔄-XML/XSD_→_XLSX/CSV-0088CC?style=for-the-badge">
-</div>
-
+### Loginom
+[![Badge](https://img.shields.io/badge/📈-Data_Engineering-00B4FF)]()
 - Преобразование XML + XSD → XLSX/CSV
 - Парсинг больших данных
 - Создание ETL-пайплайнов
@@ -87,11 +72,13 @@
 <h2 align="center">📚 Обучение</h2>
 <div align="center">
 
-| **Курс** | **Платформа** | **Статус** |
-|----------|---------------|------------|
-| Yandex DataLens | <img src="https://img.shields.io/badge/-Yandex-FF0000?logo=yandex" width="100"> | ✅ Завершено |
-| Python/C++/SQL | <img src="https://img.shields.io/badge/-Stepik-009688?logo=stepik" width="100"> | 🏆 С отличием |
-| Enterprise-аналитика | <img src="https://img.shields.io/badge/-Loginom-0088CC?logo=azure-devops" width="100"> | 🎖️ Топ 5% |
+| Курс                              | Платформа  |
+|-----------------------------------|------------|
+| Yandex DataLens                   | Yandex     |
+| Python                            | Stepik     |
+| C++                               | Stepik     |
+| SQL                               | Stepik     |
+| "На высоту enterprise-аналитики"  | Loginom    |
 
 </div>
 
@@ -99,13 +86,13 @@
 <h2 align="center">📬 Связь</h2>
 <p align="center">
   <a href="https://t.me/denis290804">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&color=0088CC"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
   </a>
   <a href="mailto:ppoi42477@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.codewars.com/users/ppoi42477">
-    <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"/>
   </a>
 </p>
 
