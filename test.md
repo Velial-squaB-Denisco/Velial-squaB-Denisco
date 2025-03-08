@@ -23,12 +23,6 @@
   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_title=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
 </div>
 
-<!-- Статус -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20for%20Projects-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Статус">
-  <img src="https://img.shields.io/badge/Data%20Pipeline%20Master-0055AA?style=for-the-badge" alt="Экспертиза">
-</div>
-
 <!-- Инструменты и технологии -->
 <h2 align="center">🔧 Мой Технологический Стек</h2>
 <div align="center">
