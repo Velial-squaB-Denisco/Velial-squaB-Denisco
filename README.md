@@ -5,8 +5,6 @@
 </div>
 
 <!-- Альтернатива аватару -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=150&height=150&lines=🚀+DE;🔒+BI;💻+DEV" alt="Анимированный бейдж">
   <br>
   <h3>Velial-squaB-Denisco</h3>
   <p>Data Engineer & Business Intelligence Developer</p>
