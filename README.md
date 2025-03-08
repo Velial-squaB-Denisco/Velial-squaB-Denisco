@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Velial-squaB-Denisco">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Velial-squaB-Denisco&theme=github_dark" width="100%">
-  </a>
+  <img src="https://github-profile-banner.vercel.app/Velial-squaB-Denisco?theme=github_dark&pattern=plus&color=0d1117&height=150" alt="GitHub Banner">
 </div>
 
 <!-- Альтернатива аватару -->
