@@ -1,64 +1,66 @@
+
+<!-- ... предыдущие секции до раздела "Технологический Стек" ... -->
+
 <!-- Инструменты и технологии -->
 <h2 align="center">🔧 Мой Технологический Стек</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,postgres,git,github,linux,vscode,aws,docker&theme=dark&perline=10"/>
   <br>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
   <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
-</div>
-
-<!-- График активности -->
-<h2 align="center">📈 Активность</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velial-squaB-Denisco&theme=react-dark&hide_border=true&area=true&color=58a6ff"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-FF6F00?style=for-the-badge&logo=radare&logoColor=white" alt="Reverse Engineering"/>
 </div>
 
 <!-- Технологические приоритеты -->
-<h2 align="center">🔝 Технологический фокус</h2>
+<h2 align="center">🔝 Ключевые экспертизы</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-Pro-4479A1?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/ETL-Advanced-FF6F00?style=flat&logo=apache-airflow"/>
+  <img src="https://img.shields.io/badge/Системное_программирование-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Кибербезопасность-4479A1?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Программная_инженерия-FF6F00?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
 
-
-
-<!-- Образование -->
-<h2 align="center">🎓 Образование</h2>
-<div align="center">
-  <p><b>РТУ МИРЭА</b><br>
-  Институт искусственного интеллекта<br>
-  Кафедра компьютерной безопасности<br>
-  </p>
-</div>
-
-<!-- Курсы -->
-<h2 align="center">🎓 Профессиональные Курсы</h2>
-<div align="center">
-
-| Курс                           | Платформа       |
-|--------------------------------|-----------------|
-| `Yandex DataLens`              | ![Yandex](https://img.shields.io/badge/Yandex-FF0000?style=flat&logo=yandex&logoColor=white) |
-| `Python`                       | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `C++`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `SQL`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `На высоту enterprise-аналитики` | ![Loginom](https://img.shields.io/badge/Loginom-0055AA?style=flat&logo=apachespark&logoColor=white) |
-</div>
+<!-- ... остальные секции до раздела проектов ... -->
 
 <!-- Проекты -->
 <h2 align="center">🚀 Ключевые Проекты</h2>
 
+<h3 align="center">🛡️ Кибербезопасность</h3>
+
+### 🔒 SecureCore
+- **Анализ уязвимостей**  
+  `Python` `Metasploit` `Nmap`  
+  Проведение пентестов и аудит безопасности сетевой инфраструктуры
+  
+- **Разработка IDS**  
+  `C++` `BPF` `Libpcap`  
+  Создание системы обнаружения сетевых аномалий
+
+---
+
+<h3 align="center">💻 Системное программирование</h3>
+
+### 🖥️ KernelMaster
+- **Драйверы устройств**  
+  `C` `Linux Kernel`  
+  Разработка low-level драйверов для специализированного оборудования
+  
+- **Системные утилиты**  
+  `Rust` `Unix`  
+  Создание высокопроизводительных системных инструментов
+
+---
+
 <h3 align="center">🏭 Промышленные решения</h3>
 
 ### 🥩 Черкизово
-
 - **⚙️ Автоматизация бизнес-процессов**  
   `Python` `VBA` `ERP`  
   Интеграция ERP-систем и автоматизация документооборота
-  
-- **📈 Бизнес-аналитика**  
-  `Power BI` `SQL` `Excel`  
-  Визуализация KPI и построение предиктивных моделей
+
+<!-- ... остальные секции без изменений ... -->
+
+
 <!-- Альтернатива аватару -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=150&height=150&lines=🚀+DE;🔒+BI;💻+DEV" alt="Анимированный бейдж">
