@@ -1,11 +1,11 @@
 # Привет! 👋 Я Денис
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&locale=ru" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&locale=ru" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 - 🏆 **Codewars:** Решение задач и участие в соревнованиях
 - 📈 **GitHub:** Активный участник open-source проектов
-- 📚 **Курсы:** Пройден курс по SQL на Stepik, курс Loginom марафон "На высоту enterprise-аналитики"
+- 📚 **Курсы:** Пройдены курсы Yandex DataLens, Stepik Python, Stepik C++, курс по SQL на Stepik, курс Loginom марафон "На высоту enterprise-аналитики"
 
 ## Хобби
 
@@ -62,6 +62,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </p>
+
 
 <p align="center">
   Спасибо за посещение! 😊
