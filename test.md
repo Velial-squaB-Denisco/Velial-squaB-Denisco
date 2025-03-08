@@ -95,6 +95,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
 </div>
 
+<!-- Курсы -->
+<h2 align="center">📚 Профессиональные Курсы</h2>
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/online-course.png" width="80" alt="Courses"/>
+
+| Курс                           | Платформа       |
+|--------------------------------|-----------------|
+| `Yandex DataLens`              | <img src="https://img.icons8.com/color/48/000000/yandex.png" width="20"/> Yandex |
+| `Python`                       | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Stepik_logo.png" width="20"/> Stepik |
+| `C++`                          | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Stepik_logo.png" width="20"/> Stepik |
+| `SQL`                          | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Stepik_logo.png" width="20"/> Stepik |
+| `На высоту enterprise-аналитики` | <img src="https://img.shields.io/badge/Loginom-0055AA?style=flat-square&logo=apachespark&logoColor=white" width="60"/> |
+</div>
+
 <!-- Контакты -->
 <h2 align="center">📡 Свяжитесь Со Мной</h2>
 <div align="center">
