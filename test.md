@@ -53,7 +53,7 @@
 <!-- Достижения -->
 <h2 align="center">🏆 Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/Velial-squaB-Denisco">
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large" alt="Codewars Rank"/>
   </a>
 </div>
