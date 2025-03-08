@@ -100,13 +100,20 @@
 <div align="center">
   <img src="https://img.icons8.com/3d-fluency/94/online-course.png" width="80" alt="Courses"/>
 
-| Курс                           | Платформа       |
-|--------------------------------|-----------------|
-| `Yandex DataLens`              | <img src="https://img.icons8.com/color/48/000000/yandex.png" width="20"/> Yandex |
-| `Python`                       | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Stepik_logo.png" width="20"/> Stepik |
-| `C++`                          | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Stepik_logo.png" width="20"/> Stepik |
-| `SQL`                          | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Stepik_logo.png" width="20"/> Stepik |
-| `На высоту enterprise-аналитики` | <img src="https://img.shields.io/badge/Loginom-0055AA?style=flat-square&logo=apachespark&logoColor=white" width="60"/> |
+- **Yandex DataLens**  
+  <img src="https://img.icons8.com/color/20/000000/yandex.png" alt="Yandex"/> Яндекс | 2023
+
+- **Python**  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/external-stepik-a-non-profit-educational-platform-focused-on-online-learning-logo-shadow-tal-revivo.png" alt="Stepik"/> Stepik | 2022
+
+- **C++**  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/external-stepik-a-non-profit-educational-platform-focused-on-online-learning-logo-shadow-tal-revivo.png" alt="Stepik"/> Stepik | 2021
+
+- **SQL**  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/external-stepik-a-non-profit-educational-platform-focused-on-online-learning-logo-shadow-tal-revivo.png" alt="Stepik"/> Stepik | 2021
+
+- **На высоту enterprise-аналитики**  
+  <img src="https://loginom.ru/sites/default/files/2021-12/logo.svg" width="20" alt="Loginom"/> Loginom | 2022
 </div>
 
 <!-- Контакты -->
