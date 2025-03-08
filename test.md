@@ -3,6 +3,11 @@
   <img src="https://i.pinimg.com/originals/18/f8/55/18f855d936ef0475367a70a48d8a5258.gif" width="100%"/>
 </div>
 
+<!-- Анимированный заголовок с дополненной информацией -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%92%BB+Data+Engineer;%F0%9F%93%8A+BI+Developer;%F0%9F%9A%80+Process+Automation+Expert;%E2%9C%A8+ETL+Specialist;%F0%9F%94%A5+SQL+Alchemist" alt="Роли и специализации">
+</div>
+
 <!-- Персональная карточка -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/ваш-id" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #58a6ff"/>
