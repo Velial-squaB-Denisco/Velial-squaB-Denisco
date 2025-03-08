@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/189524/screenshots/3559115/coding.gif" width="100%"/>
+  <img src="https://cdn.dribbble.com/users/189524/screenshots/3559115/coding.gif" width="1000%"/>
 </div>
 <!-- Анимированный заголовок -->
 <div align="center">
