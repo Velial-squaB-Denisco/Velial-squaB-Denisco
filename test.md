@@ -48,7 +48,7 @@
   <p><b>РТУ МИРЭА</b><br>
   Институт искусственного интеллекта<br>
   Кафедра компьютерной безопасности<br>
-  <i>2021-2025</i></p>
+  </p>
 </div>
 
 <!-- Курсы -->
@@ -118,8 +118,8 @@
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477">
-    <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars"/>
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
+    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
   </a>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
