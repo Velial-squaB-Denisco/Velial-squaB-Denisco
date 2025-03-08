@@ -1,6 +1,5 @@
-<!-- Вариант 3: Минимализм -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N1d2Z1enNpY2R1eHd6dXl6eHk3Z2NlYzR4cGd6b3d6Z3k2Y2h5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6W7YZv5uWlq6sU/giphy.gif" width="100%"/>
+  <img src="https://cdn.dribbble.com/users/189524/screenshots/3559115/coding.gif" width="100%"/>
 </div>
 <!-- Анимированный заголовок -->
 <div align="center">
