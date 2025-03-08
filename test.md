@@ -18,10 +18,10 @@
 <!-- Стек технологий -->
 <h2 align="center">🛠️ Технологии</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,vba,postgres,vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,vscode,git,github,linux" />
   <br>
-  <img src="https://www.ubackup.com/images/article-images/outlook-vba-save-attachments-0025-rc.png" width="40"> 
-  <img src="https://brandbook.loginom.ru/assets/img/logo.svg" width="110">
+  <img src="https://www.ubackup.com/images/article-images/outlook-vba-save-attachments-0025-rc.png" height="40">
+  <img src="https://brandbook.loginom.ru/assets/img/logo.svg" height="40" style="margin: 0 10px">
 </p>
 
 <!-- Проекты -->
