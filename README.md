@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github-profile-banner.vercel.app/Velial-squaB-Denisco?theme=github_dark&pattern=plus&color=0d1117&height=150" alt="GitHub Banner">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&width=800&lines=Hello%2C+World!+👋;Data+Engineer+💻;BI+Developer+📊;Process+Automation+🤖" alt="Typing SVG">
+  </a>
 </div>
 
 <!-- Альтернатива аватару -->
