@@ -100,20 +100,13 @@
 <div align="center">
   <img src="https://img.icons8.com/3d-fluency/94/online-course.png" width="80" alt="Courses"/>
 
-- **Yandex DataLens**  
-  <img src="https://img.icons8.com/color/20/000000/yandex.png" alt="Yandex"/> Яндекс | 2023
-
-- **Python**  
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/external-stepik-a-non-profit-educational-platform-focused-on-online-learning-logo-shadow-tal-revivo.png" alt="Stepik"/> Stepik | 2022
-
-- **C++**  
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/external-stepik-a-non-profit-educational-platform-focused-on-online-learning-logo-shadow-tal-revivo.png" alt="Stepik"/> Stepik | 2021
-
-- **SQL**  
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/external-stepik-a-non-profit-educational-platform-focused-on-online-learning-logo-shadow-tal-revivo.png" alt="Stepik"/> Stepik | 2021
-
-- **На высоту enterprise-аналитики**  
-  <img src="https://loginom.ru/sites/default/files/2021-12/logo.svg" width="20" alt="Loginom"/> Loginom | 2022
+| Курс                           | Платформа       |
+|--------------------------------|-----------------|
+| `Yandex DataLens`              | <img src="https://img.icons8.com/color/48/yandex.png" width="20" alt="Yandex"/> Яндекс |
+| `Python`                       | <img src="https://static.tildacdn.com/tild3933-3137-4430-b864-336663313736/favicon.ico" width="20" alt="Stepik"/> Stepik |
+| `C++`                          | <img src="https://static.tildacdn.com/tild3933-3137-4430-b864-336663313736/favicon.ico" width="20" alt="Stepik"/> Stepik |
+| `SQL`                          | <img src="https://static.tildacdn.com/tild3933-3137-4430-b864-336663313736/favicon.ico" width="20" alt="Stepik"/> Stepik |
+| `На высоту enterprise-аналитики` | <img src="https://loginom.ru/sites/default/files/2021-12/logo.svg" width="20" style="filter: invert(24%) sepia(98%) saturate(2592%) hue-rotate(196deg) brightness(98%) contrast(101%);" alt="Loginom"/> Loginom |
 </div>
 
 <!-- Контакты -->
