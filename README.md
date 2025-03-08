@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539423/data.gif" width="100%"/>
+  <a href="https://github.com/Velial-squaB-Denisco">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Velial-squaB-Denisco&theme=github_dark" width="100%">
+  </a>
 </div>
 
 <!-- Альтернатива аватару -->
