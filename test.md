@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539423/data.gif" width="100%"/>
-</div>
 
 <!-- Альтернатива аватару -->
 <div align="center">
