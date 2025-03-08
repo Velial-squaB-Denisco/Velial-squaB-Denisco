@@ -1,16 +1,4 @@
-# Привет! 👋 Я Денис
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&locale=ru" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&locale=ru" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velial-squaB-Denisco&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Streak" />
-</p>
+# Привет, Денис! 👋
 
 ## Обо мне
 
@@ -18,6 +6,8 @@
 - 📊 **Базы данных:** PostgreSQL
 - 🔍 **Интересы:** Разработка ПО, алгоритмы, автоматизация задач, бизнес-аналитика
 - 🎯 **Цели:** Улучшать свои навыки программирования и участвовать в интересных проектах
+
+---
 
 ## Проекты
 
@@ -35,11 +25,17 @@
 ### Loginom
 - **Создание сценариев:** Разработка корпоративных рассылок, преобразование XML в XSD, создание таблиц для анализа данных, XML parser.
 
+---
+
 ## Достижения
 
-- 🏆 **Codewars:** Решение задач и участие в соревнованиях
-- 📈 **GitHub:** Активный участник open-source проектов
-- 📚 **Курсы:** Пройдены курсы Yandex DataLens, Stepik Python, Stepik C++, курс по SQL на Stepik, курс Loginom марафон "На высоту enterprise-аналитики"
+| Достижения       | Описание                                       |
+|------------------|------------------------------------------------|
+| 🏆 **Codewars**   | Решение задач и участие в соревнованиях      |
+| 📈 **GitHub**     | Активный участник open-source проектов        |
+| 📚 **Курсы**      | Пройдены курсы Yandex DataLens, Stepik Python, Stepik C++, курс по SQL на Stepik, курс Loginom марафон "На высоту enterprise-аналитики" |
+
+---
 
 ## Хобби
 
@@ -47,6 +43,18 @@
 - 🎮 **Игры:** Провожу время за видеоиграми
 - 📚 **Чтение:** Интересуюсь научной фантастикой и технической литературой
 - 🏞️ **Путешествия:** Обожаю море, горы и долгие поездки на машине
+
+---
+
+## Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velial-squaB-Denisco&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Streak" />
+</p>
+
+---
 
 ## Контакты
 
@@ -60,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
 </p>
 
 <p align="center">
