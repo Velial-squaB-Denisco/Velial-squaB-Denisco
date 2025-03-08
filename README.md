@@ -34,7 +34,7 @@
     <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars Rank" />
   </a>
   <a href="https://t.me/@denis290804">
-    <img src="https://img.shields.io/badge/Telegram-Связаться-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Связаться-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
