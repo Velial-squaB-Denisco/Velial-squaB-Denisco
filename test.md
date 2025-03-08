@@ -31,9 +31,6 @@
 <summary><h3>🏭 Промышленные решения</h3></summary>
 
 ### 🥩 Черкизово
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/factory.png" width="80" alt="Factory"/>
-</div>
 
 - **⚙️ Автоматизация бизнес-процессов**  
   `Python` `VBA` `ERP`  
@@ -46,9 +43,6 @@
 ---
 
 ### 🐾 Mars (Royal Canin)
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/experimental-lab-flask-3d.png" width="80" alt="Lab"/>
-</div>
 
 - **🔬 Лабораторная автоматизация**  
   `VBA` `AutoHotkey`  
@@ -61,9 +55,6 @@
 ---
 
 ### 🚀 Mars
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="80" alt="Rocket"/>
-</div>
 
 - **📊 Аналитика данных**  
   `Tableau` `Pandas`  
@@ -75,9 +66,6 @@
 <summary><h3>💡 Технические решения</h3></summary>
 
 ### 🧮 Loginom
-<div align="center">
-  <img src="https://i.ibb.co/3yXqW2B/loginom-logo.png" width="80" alt="Loginom"/>
-</div>
 
 - **📧 Корпоративные рассылки**  
   `Python` `XSLT`  
