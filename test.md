@@ -96,9 +96,8 @@
 </div>
 
 <!-- Курсы -->
-<h2 align="center">📚 Профессиональные Курсы</h2>
+<h2 align="center">🎓 Профессиональные Курсы</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Курсы-0055AA?style=for-the-badge&logo=codeforces&logoColor=white" alt="Courses"/>
 
 | Курс                           | Платформа       |
 |--------------------------------|-----------------|
