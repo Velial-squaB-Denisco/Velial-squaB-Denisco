@@ -1,5 +1,3 @@
-
-```markdown
 <!-- Анимированный космический баннер -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ced56eef90342828.gif" width="100%"/> 
@@ -39,7 +37,6 @@
 def optimize_workflow(data):
     """AI-powered process optimization"""
     return automated_solution
-```
 
 ### 🧪 Лабораторная автоматизация (Mars)
 [![Preview](https://img.shields.io/badge/🔬-Smart_Lab_2.0-FF6F91?style=for-the-badge)](https://example.com)
@@ -103,4 +100,3 @@ WHERE
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&color=blue&style=flat-square&label=👽+Посетители" /> 
 </p>
-```
