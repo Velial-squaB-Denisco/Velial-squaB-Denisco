@@ -1,11 +1,7 @@
 # Привет! 👋 Я Денис
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_юзернейм&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_юзернейм&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
 </p>
 
 ## Обо мне
