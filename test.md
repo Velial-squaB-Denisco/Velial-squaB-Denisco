@@ -1,8 +1,7 @@
-<!-- Анимированный баннер -->
+<!-- Вариант 3: Минимализм -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/18/f8/55/18f855d936ef0475367a70a48d8a5258.gif" width="100%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N1d2Z1enNpY2R1eHd6dXl6eHk3Z2NlYzR4cGd6b3d6Z3k2Y2h5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6W7YZv5uWlq6sU/giphy.gif" width="100%"/>
 </div>
-
 <!-- Анимированный заголовок -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9A%80+Data+Alchemist;%E2%9C%A8+ETL+Wizard;%F0%9F%94%A5+Business+Intelligence" alt="Анимированные заголовки">
