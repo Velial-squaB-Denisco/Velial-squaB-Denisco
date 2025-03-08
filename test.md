@@ -31,12 +31,6 @@
 - Аналитика данных в Power BI
 - Интеграция с ERP-системами
 
-```python
-# Пример скрипта автоматизации
-def optimize_workflow(data):
-    return automated_solution
-```
-
 ---
 
 ### 🔬 Mars (Royal Canin)
@@ -44,14 +38,6 @@ def optimize_workflow(data):
 - Разработка инструментов для лаборатории
 - Система автоматических уведомлений
 - Генерация отчетов в реальном времени
-
-```cpp
-// Пример класса для автоматизации
-class LabAutomation {
-public:
-    void run_tests() { /*...*/ }
-};
-```
 
 ---
 
@@ -61,13 +47,6 @@ public:
 - Парсинг больших данных
 - Создание ETL-пайплайнов
 - Корпоративные рассылки
-
-```xml
-<!-- Пример структуры данных -->
-<dataset>
-  <analysis type="business"/>
-</dataset>
-```
 
 </details>
 
@@ -100,7 +79,7 @@ public:
   <a href="mailto:ppoi42477@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.codewars.com/users/Velial-squaB-Denisco">
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"/>
   </a>
 </p>
