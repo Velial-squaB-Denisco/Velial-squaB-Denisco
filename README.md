@@ -12,6 +12,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velial-squaB-Denisco&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 ## Обо мне
 
 - 💻 **Языки программирования:** C/C++, Python, VBA
@@ -62,7 +66,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </p>
-
 
 <p align="center">
   Спасибо за посещение! 😊
