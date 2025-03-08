@@ -98,7 +98,7 @@
 <!-- Курсы -->
 <h2 align="center">📚 Профессиональные Курсы</h2>
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/online-course.png" width="80" alt="Courses"/>
+  <img src="https://img.shields.io/badge/Курсы-0055AA?style=for-the-badge&logo=codeforces&logoColor=white" alt="Courses"/>
 
 | Курс                           | Платформа       |
 |--------------------------------|-----------------|
