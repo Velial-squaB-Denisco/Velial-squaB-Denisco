@@ -1,9 +1,11 @@
+<!-- Анимированный баннер -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/189524/screenshots/3559115/coding.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/18/f8/55/18f855d936ef0475367a70a48d8a5258.gif" width="100%"/>
 </div>
+
 <!-- Анимированный заголовок -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9A%80+Data+Alchemist;%E2%9C%A8+ETL+Wizard;%F0%9F%94%A5+Business+Intelligence" alt="Анимированные заголовки">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9A%80+Data+Alchemist;%E2%9C%A8+ETL+Wizard;%F0%9F%94%A5+Business+Intelligence" alt="Анимированные заголовки">
 </div>
 
 <!-- Статистика -->
@@ -28,6 +30,20 @@
   <p><b>РТУ МИРЭА</b><br>
   Институт искусственного интеллекта<br>
   Кафедра компьютерной безопасности<br>
+  <i>2021-2025</i></p>
+</div>
+
+<!-- Курсы -->
+<h2 align="center">🎓 Профессиональные Курсы</h2>
+<div align="center">
+
+| Курс                           | Платформа       |
+|--------------------------------|-----------------|
+| `Yandex DataLens`              | ![Yandex](https://img.shields.io/badge/Yandex-FF0000?style=flat&logo=yandex&logoColor=white) |
+| `Python`                       | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
+| `C++`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
+| `SQL`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
+| `На высоту enterprise-аналитики` | ![Loginom](https://img.shields.io/badge/Loginom-0055AA?style=flat&logo=apachespark&logoColor=white) |
 </div>
 
 <!-- Проекты -->
@@ -65,8 +81,6 @@
   `Tableau` `Pandas`  
   Прогнозирование спроса и оптимизация логистики
 
----
-
 <h3 align="center">💡 Технические решения</h3>
 
 ### 🧮 Loginom
@@ -83,8 +97,6 @@
   `lxml` `Regex`  
   Обработка сложных XML-структур
 
-  ---
-
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения</h2>
 <div align="center">
@@ -95,24 +107,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
 </div>
 
-<!-- Курсы -->
-<h2 align="center">🎓 Профессиональные Курсы</h2>
-<div align="center">
-
-| Курс                           | Платформа       |
-|--------------------------------|-----------------|
-| `Yandex DataLens`              | ![Yandex](https://img.shields.io/badge/Yandex-FF0000?style=flat&logo=yandex&logoColor=white) |
-| `Python`                       | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `C++`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `SQL`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `На высоту enterprise-аналитики` | ![Loginom](https://img.shields.io/badge/Loginom-0055AA?style=flat&logo=apachespark&logoColor=white) |
-</div>
-
 <!-- Контакты -->
 <h2 align="center">📡 Свяжитесь Со Мной</h2>
 <div align="center">
   <a href="https://t.me/denis290804">
-    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF7F" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=58a6ff" alt="Telegram"/>
   </a>
   <a href="mailto:ppoi42477@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
@@ -126,7 +125,7 @@
 
 <!-- Счетчик просмотров -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=00FF7F&label=PROFILE+VIEWS" alt="Просмотры"/>
+  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Просмотры"/>
 </div>
 
 <div align="center">
