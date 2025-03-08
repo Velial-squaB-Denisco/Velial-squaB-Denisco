@@ -1,6 +1,5 @@
-<!-- Вариант 1: Абстрактные данные -->
 <div align="center">
-  <img src="https://i.gifer.com/origin/60/6090d9c55ae0b3cba3a3a5743d2e4b3a.gif" width="100%"/>
+  <img src="https://cdn.dribbble.com/users/189524/screenshots/3559115/coding.gif" width="100%"/>
 </div>
 <!-- Анимированный заголовок -->
 <div align="center">
