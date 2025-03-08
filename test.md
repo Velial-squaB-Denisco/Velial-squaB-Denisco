@@ -41,6 +41,14 @@
 
 ---
 
+### 📈 Mars
+[![Badge](https://img.shields.io/badge/📊-Бизнес--аналитика-00B4FF)]()
+- Анализ данных для стратегических решений
+- Построение прогнозных моделей
+- Визуализация KPI в Tableau
+
+---
+
 ### 📊 Loginom
 [![Badge](https://img.shields.io/badge/📈-Data_Engineering-00B4FF)]()
 - Преобразование XML → XSD
@@ -53,7 +61,7 @@
 <!-- Достижения -->
 <h2 align="center">🏆 Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
+  <a href="https://www.codewars.com/users/Velial-squaB-Denisco">
     <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large" alt="Codewars Rank"/>
   </a>
 </div>
@@ -65,8 +73,10 @@
 | Курс | Платформа |
 |------|-----------|
 | Yandex DataLens | ![Yandex](https://img.shields.io/badge/-Yandex-FF0000?logo=yandex) |
-| Python/C++/SQL | ![Stepik](https://img.shields.io/badge/-Stepik-009688?logo=stepik) |
-| Enterprise-аналитика | ![Loginom](https://img.shields.io/badge/-Loginom-0088CC?logo=azure-devops) |
+| Python | ![Stepik](https://img.shields.io/badge/-Stepik-009688?logo=stepik) |
+| C++ | ![Stepik](https://img.shields.io/badge/-Stepik-009688?logo=stepik) |
+| SQL | ![Stepik](https://img.shields.io/badge/-Stepik-009688?logo=stepik) |
+| "На высоту enterprise-аналитики" | ![Loginom](https://img.shields.io/badge/-Loginom-0088CC?logo=azure-devops) |
 
 </div>
 
@@ -79,7 +89,7 @@
   <a href="mailto:ppoi42477@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
+  <a href="https://www.codewars.com/users/Velial-squaB-Denisco">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"/>
   </a>
 </p>
