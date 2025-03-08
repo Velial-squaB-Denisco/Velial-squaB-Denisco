@@ -5,7 +5,20 @@
 
 <!-- Анимированный заголовок -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9A%80+Data+Alchemist;%E2%9C%A8+ETL+Wizard;%F0%9F%94%A5+Business+Intelligence" alt="Анимированные заголовки">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%92%BB+Data+Engineer;%F0%9F%93%8A+BI+Developer;%F0%9F%9A%80+Process+Automation+Expert;%E2%9C%A8+ETL+Specialist;%F0%9F%94%A5+SQL+Alchemist" alt="Роли и специализации">
+</div>
+
+<!-- Персональная карточка -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/ваш-id" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #58a6ff"/>
+  <br>
+  <h3>Денис Кочетков</h3>
+  <p>Data Engineer & Business Intelligence Developer</p>
+</div>
+
+<!-- Разделитель -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 <!-- Статистика -->
@@ -16,12 +29,20 @@
 </div>
 
 <!-- Инструменты и технологии -->
-<h2 align="center">🔧 Мой Технологический Стек</h2>
+<h2 align="center">🔧 Технологический Стек</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
   <br>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
   <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
+</div>
+
+<!-- Технологические приоритеты -->
+<h2 align="center">🔝 Ключевые экспертизы</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-Pro-4479A1?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/ETL-Advanced-FF6F00?style=flat&logo=apache-airflow"/>
 </div>
 
 <!-- Образование -->
@@ -33,103 +54,8 @@
   <i>2021-2025</i></p>
 </div>
 
-<!-- Курсы -->
-<h2 align="center">🎓 Профессиональные Курсы</h2>
-<div align="center">
-
-| Курс                           | Платформа       |
-|--------------------------------|-----------------|
-| `Yandex DataLens`              | ![Yandex](https://img.shields.io/badge/Yandex-FF0000?style=flat&logo=yandex&logoColor=white) |
-| `Python`                       | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `C++`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `SQL`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
-| `На высоту enterprise-аналитики` | ![Loginom](https://img.shields.io/badge/Loginom-0055AA?style=flat&logo=apachespark&logoColor=white) |
-</div>
-
 <!-- Проекты -->
-<h2 align="center">🚀 Ключевые Проекты</h2>
+<h2 align="center">🚀 Профессиональные проекты</h2>
 
-<h3 align="center">🏭 Промышленные решения</h3>
-
-### 🥩 Черкизово
-
-- **⚙️ Автоматизация бизнес-процессов**  
-  `Python` `VBA` `ERP`  
-  Интеграция ERP-систем и автоматизация документооборота
-  
-- **📈 Бизнес-аналитика**  
-  `Power BI` `SQL` `Excel`  
-  Визуализация KPI и построение предиктивных моделей
-
----
-
-### 🐾 Mars (Royal Canin)
-
-- **🔬 Лабораторная автоматизация**  
-  `VBA` `AutoHotkey`  
-  Создание системы автоматического сбора данных
-  
-- **📨 Умные рассылки**  
-  `Python` `Outlook API`  
-  Автоматическая генерация 500+ ежедневных отчетов
-
----
-
-### 🚀 Mars
-
-- **📊 Аналитика данных**  
-  `Tableau` `Pandas`  
-  Прогнозирование спроса и оптимизация логистики
-
-<h3 align="center">💡 Технические решения</h3>
-
-### 🧮 Loginom
-
-- **📧 Корпоративные рассылки**  
-  `Python` `XSLT`  
-  Персонализированные отчеты для 1000+ получателей
-  
-- **🔄 Конвертация данных**  
-  `XML` `XSD`  
-  Система преобразования данных с валидацией
-  
-- **🔍 XML-парсер**  
-  `lxml` `Regex`  
-  Обработка сложных XML-структур
-
-<!-- Достижения -->
-<h2 align="center">🏆 Мои Достижения</h2>
+### 🏭 Промышленные решения
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477">
-    <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars"/>
-  </a>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
-</div>
-
-<!-- Контакты -->
-<h2 align="center">📡 Свяжитесь Со Мной</h2>
-<div align="center">
-  <a href="https://t.me/denis290804">
-    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=58a6ff" alt="Telegram"/>
-  </a>
-  <a href="mailto:ppoi42477@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
-</div>
-
-<!-- Анимация активности -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<!-- Счетчик просмотров -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Просмотры"/>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" alt="Coding"/>
-  <p>Всегда открыт для новых вызовов! 😊</p>
-</div>
