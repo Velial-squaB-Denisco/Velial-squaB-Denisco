@@ -102,11 +102,11 @@
 
 | Курс                           | Платформа       |
 |--------------------------------|-----------------|
-| `Yandex DataLens`              | <img src="https://img.icons8.com/color/48/yandex.png" width="20" alt="Yandex"/> Яндекс |
-| `Python`                       | <img src="https://static.tildacdn.com/tild3933-3137-4430-b864-336663313736/favicon.ico" width="20" alt="Stepik"/> Stepik |
-| `C++`                          | <img src="https://static.tildacdn.com/tild3933-3137-4430-b864-336663313736/favicon.ico" width="20" alt="Stepik"/> Stepik |
-| `SQL`                          | <img src="https://static.tildacdn.com/tild3933-3137-4430-b864-336663313736/favicon.ico" width="20" alt="Stepik"/> Stepik |
-| `На высоту enterprise-аналитики` | <img src="https://loginom.ru/sites/default/files/2021-12/logo.svg" width="20" style="filter: invert(24%) sepia(98%) saturate(2592%) hue-rotate(196deg) brightness(98%) contrast(101%);" alt="Loginom"/> Loginom |
+| `Yandex DataLens`              | ![Yandex](https://img.shields.io/badge/Yandex-FF0000?style=flat&logo=yandex&logoColor=white) |
+| `Python`                       | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
+| `C++`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
+| `SQL`                          | ![Stepik](https://img.shields.io/badge/Stepik-0095D6?style=flat&logo=udemy&logoColor=white) |
+| `На высоту enterprise-аналитики` | ![Loginom](https://img.shields.io/badge/Loginom-0055AA?style=flat&logo=apachespark&logoColor=white) |
 </div>
 
 <!-- Контакты -->
