@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
   <br>
   <img src="https://img.icons8.com/color/48/000000/visual-basic.png" title="VBA" alt="VBA"/>
-  <img src="https://i.ibb.co/3yXqW2B/loginom-logo.png" width="48"/>
+  <img src="https://i.ibb.co/3yXqW2B/loginom-logo.png" width="48" alt="Loginom"/>
 </div>
 
 <!-- Проекты -->
@@ -32,7 +32,7 @@
 
 ### 🥩 Черкизово
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/factory.png" width="80"/>
+  <img src="https://img.icons8.com/3d-fluency/94/factory.png" width="80" alt="Factory"/>
 </div>
 
 - **⚙️ Автоматизация бизнес-процессов**  
@@ -47,7 +47,7 @@
 
 ### 🐾 Mars (Royal Canin)
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/experimental-lab-flask-3d.png" width="80"/>
+  <img src="https://img.icons8.com/3d-fluency/94/experimental-lab-flask-3d.png" width="80" alt="Lab"/>
 </div>
 
 - **🔬 Лабораторная автоматизация**  
@@ -62,7 +62,7 @@
 
 ### 🚀 Mars
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="80"/>
+  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="80" alt="Rocket"/>
 </div>
 
 - **📊 Аналитика данных**  
@@ -76,7 +76,7 @@
 
 ### 🧮 Loginom
 <div align="center">
-  <img src="https://i.ibb.co/3yXqW2B/loginom-logo.png" width="80"/>
+  <img src="https://i.ibb.co/3yXqW2B/loginom-logo.png" width="80" alt="Loginom"/>
 </div>
 
 - **📧 Корпоративные рассылки**  
@@ -93,4 +93,39 @@
 
 </details>
 
-<!-- ... остальные секции без изменений ... -->
+<!-- Достижения -->
+<h2 align="center">🏆 Мои Достижения</h2>
+<div align="center">
+  <a href="https://www.codewars.com/users/ppoi42477">
+    <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars"/>
+  </a>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
+</div>
+
+<!-- Контакты -->
+<h2 align="center">📡 Свяжитесь Со Мной</h2>
+<div align="center">
+  <a href="https://t.me/denis290804">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF7F" alt="Telegram"/>
+  </a>
+  <a href="mailto:ppoi42477@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+</div>
+
+<!-- Анимация активности -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<!-- Счетчик просмотров -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=00FF7F&label=PROFILE+VIEWS" alt="Просмотры"/>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.icons8.com/3d-fluency/94/checkmark.png" width="50" alt="Checkmark"/>
+  <p>Всегда открыт для новых вызовов! 😊</p>
+</div>
