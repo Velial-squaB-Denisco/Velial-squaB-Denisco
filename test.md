@@ -11,7 +11,7 @@
 <!-- Статистика -->
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide_title=true&hide=stars,issues" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=merko&hide_border=true&bg_color=00000000&hide_title=true&langs_count=6" width="36%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=merko&hide_border=true&bg_color=00000000&langs_count=6&title_color=00FF7F" width="36%"/>
   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=merko&hide_border=true&background=00000000&hide_title=true" width="48%"/>
 </div>
 
@@ -22,6 +22,16 @@
   <br>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
   <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
+</div>
+
+<!-- Образование -->
+<h2 align="center">🎓 Образование</h2>
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="80" alt="Education"/>
+  <p><b>РТУ МИРЭА</b><br>
+  Институт искусственного интеллекта<br>
+  Кафедра компьютерной безопасности<br>
+  <i>2021-2025</i></p>
 </div>
 
 <!-- Проекты -->
@@ -45,7 +55,7 @@
 
 - **🔬 Лабораторная автоматизация**  
   `VBA` `AutoHotkey`  
-  Создание системы автоматического сбора лабораторных данных
+  Создание системы автоматического сбора данных
   
 - **📨 Умные рассылки**  
   `Python` `Outlook API`  
@@ -78,8 +88,8 @@
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
-    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
+  <a href="https://www.codewars.com/users/ppoi42477">
+    <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars"/>
   </a>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
