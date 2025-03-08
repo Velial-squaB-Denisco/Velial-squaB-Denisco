@@ -30,10 +30,10 @@
 ## Контакты
 
 <p align="center">
-  <a href="https://www.codewars.com/users/ваш_юзернейм">
+  <a href="[https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://img.shields.io/badge/Codewars-Ранг-red?style=for-the-badge&logo=codewars" alt="Codewars Rank" />
   </a>
-  <a href="https://t.me/ваш_юзернейм">
+  <a href="https://t.me/@denis290804">
     <img src="https://img.shields.io/badge/Telegram-Связаться-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 </p>
