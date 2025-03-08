@@ -47,7 +47,7 @@
 
 ### 🐾 Mars (Royal Canin)
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/dog-bowl.png" width="80"/>
+  <img src="https://img.icons8.com/3d-fluency/94/pet-commands-summon.png" width="80"/>
 </div>
 
 - **🔬 Лабораторная автоматизация**  
@@ -62,7 +62,7 @@
 
 ### 🚀 Mars
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="80"/>
+  <img src="https://img.icons8.com/3d-fluency/94/start.png" width="80"/>
 </div>
 
 - **📊 Аналитика данных**  
@@ -76,7 +76,7 @@
 
 ### 🧮 Loginom
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="80"/>
+  <img src="https://loginom.ru/sites/default/files/2021-12/logo.svg" width="80"/>
 </div>
 
 - **📧 Корпоративные рассылки**  
@@ -126,6 +126,6 @@
 
 <div align="center">
   <br>
-  <img src="https://img.icons8.com/3d-fluency/94/checked-2.png" width="50"/>
+  <img src="https://img.icons8.com/3d-fluency/94/checkmark.png" width="50"/>
   <p>Всегда открыт для новых вызовов! 😊</p>
 </div>
