@@ -30,9 +30,6 @@
 <h3 align="center">🏭 Промышленные решения</h3>
 
 ### 🥩 Черкизово
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/factory.png" width="80" alt="Factory"/>
-</div>
 
 - **⚙️ Автоматизация бизнес-процессов**  
   `Python` `VBA` `ERP`  
@@ -45,9 +42,6 @@
 ---
 
 ### 🐾 Mars (Royal Canin)
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/experimental-lab-flask-3d.png" width="80" alt="Lab"/>
-</div>
 
 - **🔬 Лабораторная автоматизация**  
   `VBA` `AutoHotkey`  
@@ -60,9 +54,6 @@
 ---
 
 ### 🚀 Mars
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="80" alt="Rocket"/>
-</div>
 
 - **📊 Аналитика данных**  
   `Tableau` `Pandas`  
@@ -71,9 +62,6 @@
 <h3 align="center">💡 Технические решения</h3>
 
 ### 🧮 Loginom
-<div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="80" alt="Data"/>
-</div>
 
 - **📧 Корпоративные рассылки**  
   `Python` `XSLT`  
@@ -90,8 +78,8 @@
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477">
-    <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars"/>
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
+    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
   </a>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
