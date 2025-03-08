@@ -3,8 +3,8 @@
 ## Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&hide_title=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velial-squaB-Denisco&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Streak" />
 </p>
 
@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </p>
 
 <p align="center">
