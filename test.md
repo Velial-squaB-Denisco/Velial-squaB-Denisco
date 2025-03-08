@@ -40,11 +40,6 @@
 - Разработка инструментов для лаборатории
 - Автоматизированная система запросов
 - Генерация отчетов в реальном времени
-```python
-# Пример автоматизации запросов
-def process_lab_requests(requests):
-    return automated_responses
-```
 
 ---
 
@@ -52,7 +47,6 @@ def process_lab_requests(requests):
 [![Badge](https://img.shields.io/badge/📊-Бизнес--аналитика-00B4FF)]()
 - Анализ данных для стратегических решений
 - Построение прогнозных моделей
-- Визуализация KPI в Tableau
 
 ---
 
@@ -60,21 +54,13 @@ def process_lab_requests(requests):
 [![Badge](https://img.shields.io/badge/📈-Data_Engineering-00B4FF)]()
 - Преобразование XML + XSD → XLSX/CSV
 - Парсинг больших данных
-- Создание ETL-пайплайнов
-```xml
-<!-- Пример преобразования данных -->
-<conversion>
-  <source>XML/XSD</source>
-  <target>XLSX/CSV</target>
-</conversion>
-```
 
 </details>
 
 <!-- Достижения -->
 <h2 align="center">🏆 Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477">
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars Rank"/>
   </a>
 </div>
@@ -102,7 +88,7 @@ def process_lab_requests(requests):
   <a href="mailto:ppoi42477@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.codewars.com/users/ppoi42477">
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"/>
   </a>
 </p>
