@@ -1,7 +1,7 @@
 # Привет! 👋 Я Денис
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_юзернейм&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_юзернейм&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
 </p>
 
 ## Обо мне
@@ -29,8 +29,8 @@
 
 ## Контакты
 
-- 🌐 **Codewars:** https://www.codewars.com/users/ppoi42477@gmail.com
-- 📞 **Telegram:** https://t.me/@denis290804
+- 🌐 **Codewars:** [Мой профиль на Codewars](https://www.codewars.com/users/ваш_юзернейм)
+- 📞 **Telegram:** [Написать мне в Telegram](https://t.me/ваш_юзернейм)
 
 ## Достижения
 
@@ -51,4 +51,3 @@
 <p align="center">
   Спасибо за посещение! 😊
 </p>
-
