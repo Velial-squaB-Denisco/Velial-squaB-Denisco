@@ -1,107 +1,70 @@
 <!-- Анимированный баннер -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ced56eef90342828.gif" width="100%"/>
-</p>
-
-<!-- Заголовок с анимацией -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F731&width=435&lines=Денис+▲+Разработчик+▲+Data+Engineer" alt="Анимированный текст"/>
+  <img src="https://i.pinimg.com/originals/29/a4/b4/29a4b4573f6d0e9f0bf7ab537a598a3f.gif" width="100%"/> 
 </div>
 
-<!-- Статистика GitHub -->
+<!-- Анимированный заголовок -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&cache_seconds=86400" height="165"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=aura&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velial-squaB-Denisco&theme=aura&hide_border=true" height="165"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9A%80+Data+Alchemist;%E2%9C%A8+ETL+Wizard;%F0%9F%94%A5+Business+Intelligence" alt="Анимированные заголовки">
+</div>
+
+<!-- Статистика -->
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=merko&hide_border=true&bg_color=00000000" width="36%"/>
+  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=merko&hide_border=true&background=00000000" width="48%"/>
 </div>
 
 <!-- Технологии -->
 <h2 align="center">🛠️ Технологии</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,vscode,git,github,linux" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
   <br>
-  <img src="https://www.ubackup.com/images/article-images/outlook-vba-save-attachments-0025-rc.png" height="30" style="margin: 5px">
-  <img src="https://loginom.ru/sites/default/files/2021-12/logo.svg" height="30" style="margin: 5px">
-</p>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/00FF7F/external-vba-a-programming-language-developed-by-microsoft-logo-shadow-tal-revivo.png" width="48"/>
+  <img src="https://loginom.ru/sites/default/files/2021-12/logo.svg" width="48" style="filter: invert(88%) sepia(21%) saturate(6058%) hue-rotate(70deg) brightness(105%) contrast(101%);"/>
+</div>
 
 <!-- Проекты -->
-<details open> 
-<summary><h2>🚀 Проекты</h2></summary>
+<h2 align="center">🚀 Проекты</h2>
+<details open>
+<summary><h3>🔮 Корпоративные решения</h3></summary>
 
-### Черкизово
-- **Автоматизация бизнес-процессов**  
-  Оптимизация рабочих процессов, интеграция с ERP-системами
-- **Бизнес-аналитика**  
-  Анализ данных в Power BI, подготовка отчетов
-
----
-
-### Mars (Royal Canin)
-- **Лабораторная автоматизация**  
-  Разработка инструментов для упрощения процессов
-- **Система рассылок**  
-  Автоматизация отправки отчетов и уведомлений
-
----
-
-### Mars
-- **Бизнес-аналитика**  
-  Построение прогнозных моделей, визуализация KPI
-
----
-
-### Loginom
-- **Преобразование данных**  
-  Конвертация XML/XSD → XLSX/CSV
-- **Парсинг данных**  
-  Обработка больших объемов информации
-- **Корпоративные рассылки**  
-  Автоматизация отчетности
+| Проект         | Технологии                          | Достижения |
+|----------------|-------------------------------------|------------|
+| **Черкизово**  | `Python` `Power BI` `ERP`           | Ускорение процессов на 40% |
+| **Royal Canin**| `VBA` `AutoHotkey` `LabVIEW`        | Автоматизация 20+ тестов |
+| **Loginom**    | `XSLT` `Python` `SMTP`              | Обработка 1M+ записей/день |
 
 </details>
 
 <!-- Достижения -->
 <h2 align="center">🏆 Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
-    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars Rank">
+  <a href="https://www.codewars.com/users/ppoi42477">
+    <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars"/>
   </a>
-</div>
-
-<!-- Курсы -->
-<h2 align="center">📚 Курсы</h2>
-<div align="center">
-
-| Название курса                     | Платформа  |
-|------------------------------------|------------|
-| Yandex DataLens                    | Yandex     |
-| Python                             | Stepik     |
-| C++                                | Stepik     |
-| SQL                                | Stepik     |
-| "На высоту enterprise-аналитики"   | Loginom    |
-
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
 </div>
 
 <!-- Контакты -->
-<h2 align="center">📬 Связь</h2>
-<p align="center">
+<h2 align="center">📡 Контакты</h2>
+<div align="center">
   <a href="https://t.me/denis290804">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF7F" alt="Telegram"/>
   </a>
   <a href="mailto:ppoi42477@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
   </a>
-  <a href="https://www.codewars.com/users/ppoi42477">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white">
-  </a>
-</p>
+</div>
 
 <!-- Анимация -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-90a3-4edb-8ce0-b6b89bdac0b4.gif" width="600"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-<!-- Счетчик просмотров -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&color=blue&style=flat-square" alt="Просмотры"> 
-</p>
+<!-- Счетчик -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=00FF7F&label=PROFILE+VIEWS" alt="Просмотры"/>
+</div>
