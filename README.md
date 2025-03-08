@@ -1,5 +1,15 @@
 # Привет, Денис! 👋
 
+## Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velial-squaB-Denisco&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Streak" />
+</p>
+
+---
+
 ## Обо мне
 
 - 💻 **Языки программирования:** C/C++, Python, VBA
@@ -29,11 +39,18 @@
 
 ## Достижения
 
-| Достижения       | Описание                                       |
-|------------------|------------------------------------------------|
-| 🏆 **Codewars**   | Решение задач и участие в соревнованиях      |
-| 📈 **GitHub**     | Активный участник open-source проектов        |
-| 📚 **Курсы**      | Пройдены курсы Yandex DataLens, Stepik Python, Stepik C++, курс по SQL на Stepik, курс Loginom марафон "На высоту enterprise-аналитики" |
+- 🏆 **Codewars:** Решение задач и участие в соревнованиях
+- 📈 **GitHub:** Активный участник open-source проектов
+
+### Курсы
+
+| Название курса                      | Платформа  |
+|-------------------------------------|------------|
+| Yandex DataLens                     | Yandex     |
+| Python                              | Stepik     |
+| C++                                 | Stepik     |
+| SQL                                 | Stepik     |
+| "На высоту enterprise-аналитики"   | Loginom    |
 
 ---
 
@@ -43,16 +60,6 @@
 - 🎮 **Игры:** Провожу время за видеоиграми
 - 📚 **Чтение:** Интересуюсь научной фантастикой и технической литературой
 - 🏞️ **Путешествия:** Обожаю море, горы и долгие поездки на машине
-
----
-
-## Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velial-squaB-Denisco&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Streak" />
-</p>
 
 ---
 
