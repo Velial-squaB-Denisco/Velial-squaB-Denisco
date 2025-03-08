@@ -63,8 +63,8 @@
 <!-- Достижения -->
 <h2 align="center">🏆 Достижения</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477">
-    <img src="https://www.codewars.com/users/ppoi42477/badges/large" alt="Codewars Rank">
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
+    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars Rank">
   </a>
 </div>
 
