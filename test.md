@@ -10,8 +10,8 @@
 
 <!-- Статистика -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide_title=true" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=merko&hide_border=true&bg_color=00000000&hide_title=true" width="36%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide_title=true&hide=stars,issues" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=merko&hide_border=true&bg_color=00000000&hide_title=true&langs_count=6" width="36%"/>
   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=merko&hide_border=true&background=00000000&hide_title=true" width="48%"/>
 </div>
 
@@ -21,16 +21,18 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
   <br>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
-  <img src="https://img.shields.io/badge/Loginom-00B0F0?style=for-the-badge&logo=databricks&logoColor=white" alt="Loginom"/>
+  <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
 </div>
 
 <!-- Проекты -->
 <h2 align="center">🚀 Ключевые Проекты</h2>
 
-<details open> 
-<summary><h3>🏭 Промышленные решения</h3></summary>
+<h3 align="center">🏭 Промышленные решения</h3>
 
 ### 🥩 Черкизово
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/factory.png" width="80" alt="Factory"/>
+</div>
 
 - **⚙️ Автоматизация бизнес-процессов**  
   `Python` `VBA` `ERP`  
@@ -43,6 +45,9 @@
 ---
 
 ### 🐾 Mars (Royal Canin)
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/experimental-lab-flask-3d.png" width="80" alt="Lab"/>
+</div>
 
 - **🔬 Лабораторная автоматизация**  
   `VBA` `AutoHotkey`  
@@ -55,17 +60,20 @@
 ---
 
 ### 🚀 Mars
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="80" alt="Rocket"/>
+</div>
 
 - **📊 Аналитика данных**  
   `Tableau` `Pandas`  
   Прогнозирование спроса и оптимизация логистики
 
-</details>
-
-<details>
-<summary><h3>💡 Технические решения</h3></summary>
+<h3 align="center">💡 Технические решения</h3>
 
 ### 🧮 Loginom
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="80" alt="Data"/>
+</div>
 
 - **📧 Корпоративные рассылки**  
   `Python` `XSLT`  
@@ -78,8 +86,6 @@
 - **🔍 XML-парсер**  
   `lxml` `Regex`  
   Обработка сложных XML-структур
-
-</details>
 
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения</h2>
