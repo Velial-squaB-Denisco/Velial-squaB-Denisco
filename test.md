@@ -1,6 +1,6 @@
 <!-- Анимированный баннер -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/29/a4/b4/29a4b4573f6d0e9f0bf7ab537a598a3f.gif" width="100%"/> 
+  <img src="https://i.pinimg.com/originals/18/f8/55/18f855d936ef0475367a70a48d8a5258.gif" width="100%"/>
 </div>
 
 <!-- Анимированный заголовок -->
