@@ -33,15 +33,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velial-squaB-Denisco&theme=react-dark&hide_border=true&area=true&color=58a6ff"/>
 </div>
 
-<!-- Технологические приоритеты -->
-<h2 align="center">🔝 Технологический фокус</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-Pro-4479A1?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/ETL-Advanced-FF6F00?style=flat&logo=apache-airflow"/>
-</div>
-
-
 
 <!-- Образование -->
 <h2 align="center">🎓 Образование</h2>
@@ -71,51 +62,71 @@
 <h3 align="center">🏭 Промышленные решения</h3>
 
 ### 🥩 Черкизово
-
 - **⚙️ Автоматизация бизнес-процессов**  
   `Python` `VBA` `ERP`  
-  Интеграция ERP-систем и автоматизация документооборота
-  
+  Интеграция ERP-систем и автоматизация документооборота  
+  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
+
 - **📈 Бизнес-аналитика**  
-  `Power BI` `SQL` `Excel`  
-  Визуализация KPI и построение предиктивных моделей
+  `Power BI` `SAP BW` `SQL` `VBA`  
+  Проектирование и реализация БД для системы аналитики  
+  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
 ---
 
 ### 🐾 Mars (Royal Canin)
-
 - **🔬 Лабораторная автоматизация**  
-  `VBA` `AutoHotkey`  
+  `VBA` `Python`  
   Создание системы автоматического сбора данных
+
+- **⚙️ Автоматизация процессов**  
+  `Python` `VBA` `ERP`  
+  Интеграция ERP-систем и документооборота
   
 - **📨 Умные рассылки**  
   `Python` `Outlook API`  
-  Автоматическая генерация 500+ ежедневных отчетов
+  Автоматическая генерация запросов в лабораторию<br>и отправка ежедневных отчетов
 
 ---
 
 ### 🚀 Mars
-
 - **📊 Аналитика данных**  
-  `Tableau` `Pandas`  
-  Прогнозирование спроса и оптимизация логистики
+  `SAP BI` `Python Pandas` `Python NumPy`  
+  Прогнозирование спроса и оптимизация логистики  
+  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
 <h3 align="center">💡 Технические решения</h3>
 
 ### 🧮 Loginom
-
 - **📧 Корпоративные рассылки**  
-  `Python` `XSLT`  
-  Персонализированные отчеты для 1000+ получателей
+  `Xlsx` `Python`  
+  Персонализированные отчеты для 100+ получателей  
+  [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/Loginom_Send_Mail)
   
 - **🔄 Конвертация данных**  
-  `XML` `XSD`  
-  Система преобразования данных с валидацией
+  `XML` `XSD` `Python Pandas` `Python NumPy`  
+  Генерация XSD-схемы на основе XML-образцов  
+  [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/WorkXML)
   
 - **🔍 XML-парсер**  
-  `lxml` `Regex`  
-  Обработка сложных XML-структур
+  `XML` `Python` 
+  Обработка сложных и нестандартных XML-структур  
+  [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/WorkXML)
 
+- **📑 Автоматическая генерация таблиц**  
+  `XML` `Python` `XSD`  
+  Создание динамических таблиц из XML-источников:<br>
+  • Парсинг сложных XML-структур<br>
+  • Автоматическая генерация XSD схемы<br>
+  • Экспорт в XLSX/CSV за 1 клик  
+  [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/Loginom_XML_XSD_Table)
+
+### 🔐 Криптография
+- **🔒 Реализация СТБ Belt 34.101.31-2007**  
+  `C++` `Crypto++` `Hash`  
+  Разработка модуля шифрования для защиты данных<br> 
+  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
+  
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения</h2>
 <div align="center">
@@ -137,6 +148,12 @@
   </a>
 </div>
 
+<div align="center">
+  <br>
+  <img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" alt="Coding"/>
+  <p>Всегда открыт для новых вызовов! 😊</p>
+</div>
+
 <!-- Анимация активности -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -145,10 +162,4 @@
 <!-- Счетчик просмотров -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Просмотры"/>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" alt="Coding"/>
-  <p>Всегда открыт для новых вызовов! 😊</p>
 </div>
