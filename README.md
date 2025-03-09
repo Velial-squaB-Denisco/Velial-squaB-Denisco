@@ -19,7 +19,7 @@
 </div>
 
 <!-- Инструменты и технологии -->
-<h2 align="center">🔧 Мой Технологический Стек</h2>
+<h2 align="center">🔧 Мой Технологический Стек 🔧</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
   <br>
@@ -28,14 +28,14 @@
 </div>
 
 <!-- График активности -->
-<h2 align="center">📈 Активность</h2>
+<h2 align="center">📈 Активность 📈</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velial-squaB-Denisco&theme=react-dark&hide_border=true&area=true&color=58a6ff"/>
 </div>
 
 
 <!-- Образование -->
-<h2 align="center">🎓 Образование</h2>
+<h2 align="center">🎓 Образование 🎓</h2>
 <div align="center">
   <p><b>РТУ МИРЭА</b><br>
   Институт искусственного интеллекта<br>
@@ -44,7 +44,7 @@
 </div>
 
 <!-- Курсы -->
-<h2 align="center">🎓 Профессиональные Курсы</h2>
+<h2 align="center">🎓 Профессиональные Курсы 🎓</h2>
 <div align="center">
 
 | Курс                           | Платформа       |
@@ -57,9 +57,9 @@
 </div>
 
 <!-- Проекты -->
-<h2 align="center">🚀 Ключевые Проекты</h2>
+<h2 align="center">🚀 Ключевые Проекты🚀</h2>
 
-<h3 align="center">🏭 Промышленные решения</h3>
+<h3 align="center">🏭 Промышленные решения 🏭</h3>
 
 ### 🥩 Черкизово
 - **⚙️ Автоматизация бизнес-процессов**  
@@ -95,7 +95,7 @@
   Прогнозирование спроса и оптимизация логистики  
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
-<h3 align="center">💡 Технические решения</h3>
+<h3 align="center">💡 Технические решения 💡</h3>
 
 ### 🧮 Loginom
 - **📧 Корпоративные рассылки**  
@@ -128,7 +128,7 @@
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
   
 <!-- Достижения -->
-<h2 align="center">🏆 Мои Достижения</h2>
+<h2 align="center">🏆 Мои Достижения 🏆</h2>
 <div align="center">
   <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
@@ -138,7 +138,7 @@
 </div>
 
 <!-- Контакты -->
-<h2 align="center">📡 Свяжитесь Со Мной</h2>
+<h2 align="center">📡 Связь Со Мной 📡</h2>
 <div align="center">
   <a href="https://t.me/denis290804">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=58a6ff" alt="Telegram"/>
@@ -150,7 +150,6 @@
 
 <div align="center">
   <br>
-  <img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" alt="Coding"/>
   <p>Всегда открыт для новых вызовов! 😊</p>
 </div>
 
