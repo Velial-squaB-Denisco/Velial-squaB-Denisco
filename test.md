@@ -1,80 +1,21 @@
-
-<!-- ... предыдущие секции до раздела "Технологический Стек" ... -->
-
-<!-- Инструменты и технологии -->
-<h2 align="center">🔧 Мой Технологический Стек</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,postgres,git,github,linux,vscode,aws,docker&theme=dark&perline=10"/>
-  <br>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
-  <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-FF6F00?style=for-the-badge&logo=radare&logoColor=white" alt="Reverse Engineering"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&width=800&lines=Hello%2C+World!+👋;Data+Engineer+💻;BI+Developer+📊;Process+Automation+🤖" alt="Typing SVG">
+  </a>
 </div>
-
-<!-- Технологические приоритеты -->
-<h2 align="center">🔝 Ключевые экспертизы</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Системное_программирование-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Кибербезопасность-4479A1?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Программная_инженерия-FF6F00?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</div>
-
-<!-- ... остальные секции до раздела проектов ... -->
-
-<!-- Проекты -->
-<h2 align="center">🚀 Ключевые Проекты</h2>
-
-<h3 align="center">🛡️ Кибербезопасность</h3>
-
-### 🔒 SecureCore
-- **Анализ уязвимостей**  
-  `Python` `Metasploit` `Nmap`  
-  Проведение пентестов и аудит безопасности сетевой инфраструктуры
-  
-- **Разработка IDS**  
-  `C++` `BPF` `Libpcap`  
-  Создание системы обнаружения сетевых аномалий
-
----
-
-<h3 align="center">💻 Системное программирование</h3>
-
-### 🖥️ KernelMaster
-- **Драйверы устройств**  
-  `C` `Linux Kernel`  
-  Разработка low-level драйверов для специализированного оборудования
-  
-- **Системные утилиты**  
-  `Rust` `Unix`  
-  Создание высокопроизводительных системных инструментов
-
----
-
-<h3 align="center">🏭 Промышленные решения</h3>
-
-### 🥩 Черкизово
-- **⚙️ Автоматизация бизнес-процессов**  
-  `Python` `VBA` `ERP`  
-  Интеграция ERP-систем и автоматизация документооборота
-
-<!-- ... остальные секции без изменений ... -->
-
 
 <!-- Альтернатива аватару -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=150&height=150&lines=🚀+DE;🔒+BI;💻+DEV" alt="Анимированный бейдж">
+ <div align="center">
   <br>
   <h3>Velial-squaB-Denisco</h3>
   <p>Data Engineer & Business Intelligence Developer</p>
 </div>
 
 <!-- Статистика -->
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide_title=true&hide=stars,issues&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=6&text_color=58a6ff&title_color=58a6ff" width="36%"/>
-  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_title=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
-</div>
+ <div align="center">
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide_title=true&hide=stars,issues&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=6&text_color=58a6ff&title_color=58a6ff" width="36%"/>
+   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_title=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
 
 <!-- Инструменты и технологии -->
 <h2 align="center">🔧 Мой Технологический Стек</h2>
@@ -195,11 +136,6 @@
   </a>
 </div>
 
-<!-- Анимация активности -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
 <!-- Счетчик просмотров -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Просмотры"/>
@@ -209,4 +145,9 @@
   <br>
   <img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" alt="Coding"/>
   <p>Всегда открыт для новых вызовов! 😊</p>
+</div>
+
+<!-- Анимация активности -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
