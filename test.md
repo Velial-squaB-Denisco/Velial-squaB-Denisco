@@ -32,15 +32,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velial-squaB-Denisco&theme=react-dark&hide_border=true&area=true&color=58a6ff"/>
 </div>
 
-<!-- Технологические приоритеты -->
-<h2 align="center">🔝 Технологический фокус</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-Pro-4479A1?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/ETL-Advanced-FF6F00?style=flat&logo=apache-airflow"/>
-</div>
-
-
 
 <!-- Образование -->
 <h2 align="center">🎓 Образование</h2>
