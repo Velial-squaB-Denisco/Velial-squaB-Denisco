@@ -136,11 +136,6 @@
   </a>
 </div>
 
-<!-- Счетчик просмотров -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Просмотры"/>
-</div>
-
 <div align="center">
   <br>
   <img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" alt="Coding"/>
@@ -150,4 +145,9 @@
 <!-- Анимация активности -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<!-- Счетчик просмотров -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Просмотры"/>
 </div>
