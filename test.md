@@ -29,6 +29,11 @@
   <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aDcz2qHfG5lVtTq/giphy.gif" width="30px"> 
+  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&fire=ff8c00&ring=ffd700&currStreakLabel=ffd700">
+</div>
+
 <!-- График активности -->
 <h2 align="center">📈 Активность</h2>
 <div align="center">
