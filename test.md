@@ -1,56 +1,42 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&width=800&lines=Hello%2C+World!+👋;Data+Engineer+💻;BI+Developer+📊;Process+Automation+🤖" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&width=800&lines=👋+Hello%2C+World!+👋;💻+Data+Engineer+💻;📊+BI+Developer+📊;🤖+Process+Automation+🤖" alt="Typing SVG">
   </a>
 </div>
 
-<!-- Альтернатива аватару -->
- <div align="center">
+<div align="center">
   <br>
   <h3>Velial-squaB-Denisco</h3>
-  <p>Data Engineer & Business Intelligence Developer</p>
+  <p>Data Engineer | Business Intelligence Developer | Software Engineer</p>
 </div>
 
-<!-- Статистика -->
-<!-- GitHub Stats -->
 <div align="center">
-  <!-- Основная статистика -->
   <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&cache_seconds=3600" width="48%"/>
-
-  <!-- Топ языков -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake,roff,html,css,dockerfile&title_color=58a6ff&text_color=8b949e&exclude_repo=README-STATS&cache_seconds=3600" width="36%"/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&ring=58a6ff&fire=FF8C00&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e&dates=8b949e&border=00000000" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&ring=58a6ff&fire=FF8C00&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e&dates=8b949e&border=00000000&cache_seconds=3600" width="48%"/>
 </div>
 
-<!-- Инструменты и технологии -->
-<h2 align="center">🔧 Мой Технологический Стек</h2>
+<h2 align="center">🔧 Технологический Стек 🔧</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
   <br>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
-  <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </div>
 
-<!-- График активности -->
-<h2 align="center">📈 Активность</h2>
+<h2 align="center">📈 Активность 📈</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velial-squaB-Denisco&theme=react-dark&hide_border=true&area=true&color=58a6ff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velial-squaB-Denisco&theme=react-dark&hide_border=true&area=true&color=58a6ff&cache_seconds=3600"/>
 </div>
 
-
-<!-- Образование -->
 <h2 align="center">🎓 Образование</h2>
 <div align="center">
   <p><b>РТУ МИРЭА</b><br>
   Институт искусственного интеллекта<br>
-  Кафедра компьютерной безопасности<br>
-  </p>
+  Кафедра компьютерной безопасности</p>
 </div>
 
-<!-- Курсы -->
-<h2 align="center">🎓 Профессиональные Курсы</h2>
+<h2 align="center">📚 Профессиональные Курсы</h2>
 <div align="center">
 
 | Курс                           | Платформа       |
@@ -62,7 +48,6 @@
 | `На высоту enterprise-аналитики` | ![Loginom](https://img.shields.io/badge/Loginom-0055AA?style=flat&logo=apachespark&logoColor=white) |
 </div>
 
-<!-- Проекты -->
 <h2 align="center">🚀 Ключевые Проекты</h2>
 
 <h3 align="center">🏭 Промышленные решения</h3>
@@ -83,15 +68,18 @@
 ### 🐾 Mars (Royal Canin)
 - **🔬 Лабораторная автоматизация**  
   `VBA` `Python`  
-  Создание системы автоматического сбора данных
+  Создание системы автоматического сбора данных  
+  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
 - **⚙️ Автоматизация процессов**  
   `Python` `VBA` `ERP`  
-  Интеграция ERP-систем и документооборота
+  Интеграция ERP-систем и документооборота  
+  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
   
 - **📨 Умные рассылки**  
   `Python` `Outlook API`  
-  Автоматическая генерация запросов в лабораторию<br>и отправка ежедневных отчетов
+  Автоматическая генерация запросов в лабораторию  
+  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
 ---
 
@@ -116,63 +104,48 @@
   
 - **🔍 XML-парсер**  
   `XML` `Python` 
-  Обработка сложных и нестандартных XML-структур  
+  Обработка сложных XML-структур  
   [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/WorkXML)
 
 - **📑 Автоматическая генерация таблиц**  
   `XML` `Python` `XSD`  
-  Создание динамических таблиц из XML-источников:<br>
-  • Парсинг сложных XML-структур<br>
-  • Автоматическая генерация XSD схемы<br>
-  • Экспорт в XLSX/CSV за 1 клик  
+  Динамическое создание таблиц из XML-источников  
   [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/Loginom_XML_XSD_Table)
 
 ### 🔐 Криптография
 - **🔒 Реализация СТБ Belt 34.101.31-2007**  
   `C++` `Crypto++` `Hash`  
-  Разработка модуля шифрования для защиты данных<br> 
+  Модуль шифрования для защиты данных  
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
-  
-<!-- Достижения -->
-<!-- Разделитель -->
-<img src="https://raw.githubusercontent.com/AnderDennis/AnderDennis/main/assets/line-neon.gif" width="100%"/>
 
-<!-- Анимированный Codewars Stats -->
-[![Codewars Stats](https://github.r2v.ch/codewars?user=ppoi42477@gmail.com&theme=dark&top_languages=true&name_color=58a6ff&text_color=8b949e)](https://codewars.com/users/ppoi42477@gmail.com
-  
-  <!-- GitHub Trophies с адаптированной темой -->
-  <div style="margin-top: 30px">
-    <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=nightowl&
-      title=Commit,Repositories,Followers,MultiLanguage&
-      margin-w=15&margin-h=15&no-bg=true&no-frame=true&
-      title_color=58a6ff&text_color=8b949e&color=58a6ff" 
-         alt="GitHub Trophies"/>
-  </div>
+<h2 align="center">🏆 Достижения</h2>
+<div align="center">
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
+    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
+  </a>
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4&no-cache=1" alt="Trophies"/>
 </div>
 
-<!-- Контакты -->
-<h2 align="center">📡 Свяжитесь Со Мной</h2>
+<h2 align="center">📡 Связь Со Мной</h2>
 <div align="center">
   <a href="https://t.me/denis290804">
-    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=58a6ff" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=58a6ff"/>
   </a>
   <a href="mailto:ppoi42477@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" alt="Coding"/>
   <p>Всегда открыт для новых вызовов! 😊</p>
 </div>
 
-<!-- Анимация активности -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<!-- Счетчик просмотров -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Просмотры"/>
+  <img src="https://komarev.com/ghpvc/?username=Velial-squaB-Denisco&style=flat-square&color=58a6ff&label=PROFILE+VIEWS"/>
 </div>
