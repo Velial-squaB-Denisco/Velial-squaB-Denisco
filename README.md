@@ -8,7 +8,7 @@
  <div align="center">
   <br>
   <h3>Velial-squaB-Denisco</h3>
-  <p>Data Engineer & Business Intelligence Developer</p>
+  <p>Data Engineer & Business Intelligence Developer & Software Engineer</p>
 </div>
 
 <!-- Статистика -->
