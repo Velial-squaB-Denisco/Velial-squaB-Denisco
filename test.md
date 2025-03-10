@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues&bg_color=00000000&role=OWNER&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&random=1&refresh=3600" width="48%"/>
 
   <!-- Языки с фильтрацией и авто-обновлением -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake,roff&title_color=58a6ff&text_color=8b949e&exclude_repo=README-STATS&random=1" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake,roff&title_color=58a6ff&text_color=8b949e&exclude_repo=README-STATS&random=1" width="48%"/>
 
   <!-- Streak Stats с гарантией обновления -->
   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&ring=58a6ff&fire=FF8C00&currStreakLabel=58a6ff&dates=8b949e&sideNums=58a6ff&sideLabels=8b949e&random=1" width="48%"/>
