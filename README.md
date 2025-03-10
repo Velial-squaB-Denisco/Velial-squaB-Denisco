@@ -12,13 +12,10 @@
 </div>
 
 <!-- Статистика -->
-<div align="center">
-  <a href="https://github.com/Velial-squaB-Denisco?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues&random=<?= time() ?>" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&random=<?= time() ?>" width="36%">
-    <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=dark&hide_border=true&background=00000000&random=<?= time() ?>" width="48%">
-  </a>
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide_title=true&hide=stars,issues&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=6&text_color=58a6ff&title_color=58a6ff" width="36%"/>
+    <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_title=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
 
 <!-- Инструменты и технологии -->
 <h2 align="center">🔧 Мой Технологический Стек 🔧</h2>
