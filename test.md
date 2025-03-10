@@ -134,14 +134,11 @@
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
   
 <!-- Достижения -->
-<h2 align="center">🏆 Мои Достижения</h2>
-<div align="center" style="margin-top: 20px">
-  <!-- Codewars с кастомным оформлением -->
-  <a href="https://www.codewars.com/users/ppoi42477@gmail.com" target="_blank">
-    <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large?theme=nightowl&logo=false" 
-         style="border: 1px solid #58a6ff; border-radius: 4px; padding: 6px"
-         alt="Codewars Rank">
-  </a>
+<!-- Разделитель -->
+<img src="https://raw.githubusercontent.com/AnderDennis/AnderDennis/main/assets/line-neon.gif" width="100%"/>
+
+<!-- Анимированный Codewars Stats -->
+[![Codewars Stats](https://github.r2v.ch/codewars?user=ppoi42477@gmail.com&theme=dark&top_languages=true&name_color=58a6ff&text_color=8b949e)](https://codewars.com/users/ppoi42477@gmail.com
   
   <!-- GitHub Trophies с адаптированной темой -->
   <div style="margin-top: 30px">
