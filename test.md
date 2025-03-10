@@ -135,12 +135,22 @@
   
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения</h2>
-<div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
-    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
+<div align="center" style="margin-top: 20px">
+  <!-- Codewars с кастомным оформлением -->
+  <a href="https://www.codewars.com/users/ppoi42477@gmail.com" target="_blank">
+    <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large?theme=nightowl&logo=false" 
+         style="border: 1px solid #58a6ff; border-radius: 4px; padding: 6px"
+         alt="Codewars Rank">
   </a>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
+  
+  <!-- GitHub Trophies с адаптированной темой -->
+  <div style="margin-top: 30px">
+    <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=nightowl&
+      title=Commit,Repositories,Followers,MultiLanguage&
+      margin-w=15&margin-h=15&no-bg=true&no-frame=true&
+      title_color=58a6ff&text_color=8b949e&color=58a6ff" 
+         alt="GitHub Trophies"/>
+  </div>
 </div>
 
 <!-- Контакты -->
