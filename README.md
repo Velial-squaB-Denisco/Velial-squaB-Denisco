@@ -83,18 +83,15 @@
 ### 🐾 Mars (Royal Canin)
 - **🔬 Лабораторная автоматизация**  
   `VBA` `Python`  
-  Создание системы автоматического сбора данных
-  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
+  Создание системы автоматического сбора данных ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
 - **⚙️ Автоматизация процессов**  
   `Python` `VBA` `ERP`  
-  Интеграция ERP-систем и документооборота
-  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
+  Интеграция ERP-систем и документооборота ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
   
 - **📨 Умные рассылки**  
   `Python` `Outlook API`  
-  Автоматическая генерация запросов в лабораторию<br>и отправка ежедневных отчетов
-  ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
+  Автоматическая генерация запросов в лабораторию и отправка ежедневных отчетов ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
 ---
 
