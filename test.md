@@ -17,7 +17,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake&title_color=58a6ff&text_color=8b949e" width="36%"/>
 
-  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_current_streak=true&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e" width="48%"/>
+   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_title=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
 </div>
 
 <!-- Инструменты и технологии -->
@@ -27,11 +27,6 @@
   <br>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
   <img src="https://img.shields.io/badge/Loginom-0055AA?style=for-the-badge&logo=apachespark&logoColor=white" alt="Loginom"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aDcz2qHfG5lVtTq/giphy.gif" width="30px"> 
-  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&fire=ff8c00&ring=ffd700&currStreakLabel=ffd700">
 </div>
 
 <!-- График активности -->
