@@ -12,10 +12,12 @@
 </div>
 
 <!-- Статистика -->
- <div align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide_title=true&hide=stars,issues&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%"/>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=6&text_color=58a6ff&title_color=58a6ff" width="36%"/>
-   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_title=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="48%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake&title_color=58a6ff&text_color=8b949e" width="36%"/>
+
+  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&hide_current_streak=true&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e" width="48%"/>
 </div>
 
 <!-- Инструменты и технологии -->
