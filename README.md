@@ -143,7 +143,8 @@
     <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
   </a>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4&exclude_repo=README-STATS&cache_seconds=86400" alt="Trophies"/>
 </div>
 
 <!-- Контакты -->
