@@ -104,6 +104,8 @@
   Прогнозирование спроса и оптимизация логистики  
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
+---
+
 <h3 align="center">💡 Технические решения 💡</h3>
 
 ### 🧮 Loginom
@@ -130,6 +132,8 @@
   • Экспорт в XLSX/CSV за 1 клик  
   [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/Loginom_XML_XSD_Table)
 
+---
+
 <h3 align="center">👩🏻‍💻 Компьютерная безопасность 👩🏻‍💻</h3>
 
 ### 🔐 Криптография
@@ -137,6 +141,8 @@
   `C++` `Crypto++` `Hash`  
   Разработка модуля шифрования для защиты данных<br> 
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
+
+---
   
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения 🏆</h2>
