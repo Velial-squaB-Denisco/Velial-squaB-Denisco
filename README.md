@@ -130,6 +130,8 @@
   • Экспорт в XLSX/CSV за 1 клик  
   [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/Loginom_XML_XSD_Table)
 
+<h3 align="center">👩🏻‍💻 Компьютерная безопасность 👩🏻‍💻</h3>
+
 ### 🔐 Криптография
 - **🔒 Реализация СТБ Belt 34.101.31-2007**  
   `C++` `Crypto++` `Hash`  
