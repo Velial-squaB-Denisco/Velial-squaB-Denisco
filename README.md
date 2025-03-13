@@ -92,7 +92,7 @@
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
   
 - **📨 Умные рассылки**  
-  `Python` `Outlook API`  
+  `Python` `Outlook API` `VBA`  
   Автоматическая генерация запросов в лабораторию<br>и отправка ежедневных отчетов<br>
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
