@@ -148,7 +148,7 @@
 <h2 align="center">🏆 Мои Достижения 🏆</h2>
 <div align="center">
   <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
-    <img src="https://www.codewars.com/users/ppoi42477@gmail.com/badges/large" alt="Codewars"/>
+    <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large" alt="Codewars"/>
   </a>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/> 
