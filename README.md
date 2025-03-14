@@ -154,7 +154,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
   <br>
   <a href="https://leetcode.com/Velial-squaB-Denisco/">
-    <img src="https://leetcode-stats-card.vercel.app/api?username=Velial-squaB-Denisco&theme=light" alt="LeetCode Stats"/>
+    <img src="https://leetcode-stats-api.vercel.app/api?username=Velial-squaB-Denisco&theme=dark" alt="LeetCode Stats"/>
   </a>
 </div>
 
