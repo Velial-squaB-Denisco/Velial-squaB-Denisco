@@ -1,12 +1,12 @@
 <p align="right">
-  <a href="README.md" style="background-color: #00247D; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/50px-Flag_of_Russia.svg.png" alt="Русский" width="20" />
-    Русский
-  </a> 
-  &nbsp; <!-- Пробел между кнопками -->
-  <a href="README_EN.md" style="background-color: #00247D; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" alt="English" width="25" />
-    English
+  <a href="README.md" style="display: inline-flex; align-items: center; background: #00247D; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; gap: 8px; transition: all 0.3s ease;">
+    <img src="https://flagcdn.com/ru.svg" width="24" height="18" alt="Русский">
+    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">Русский</span>
+  </a>
+  
+  <a href="README_EN.md" style="display: inline-flex; align-items: center; background: #00247D; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; gap: 8px; transition: all 0.3s ease; margin-left: 10px;">
+    <img src="https://flagcdn.com/us.svg" width="24" height="18" alt="English">
+    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">English</span>
   </a>
 </p>
 <br>
