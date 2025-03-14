@@ -1,11 +1,11 @@
 <p align="right">
-  <a href="README.md">
+  <a href="README.md" style="color: #00247D;">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/50px-Flag_of_Russia.svg.png" alt="Русский" width="30" />
     Русский
   </a> 
   &nbsp; <!-- Пробел между кнопками -->
-  <a href="README_EN.md">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_Kingdom.svg/50px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="30" />
+  <a href="README_EN.md" style="color: #00247D;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" alt="English" width="30" />
     English
   </a>
 </p>
