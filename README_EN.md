@@ -1,14 +1,6 @@
-<div align="right" style="margin-bottom: 20px;">
-  <a href="README.md" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 12px; padding: 8px 16px; border-radius: 8px; background: #f8f9fa; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <img src="https://flagcdn.com/ru.svg" width="28" height="21" style="margin-right: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); border-radius: 3px;">
-    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; color: #24292f; font-weight: 500;">Русский</span>
-  </a>
+<div align="right" style="margin: 20px 0 30px;">
 
-  <a href="README_EN.md" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 12px; padding: 8px 16px; border-radius: 8px; background: #f8f9fa; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <img src="https://flagcdn.com/us.svg" width="28" height="21" style="margin-right: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); border-radius: 3px;">
-    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; color: #24292f; font-weight: 500;">English</span>
-  </a>
-</div>
+[![Русский](https://img.shields.io/badge/Русский-007bff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWw9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNjQgNDgiIHdpZ
 <br>
 <br>
 
