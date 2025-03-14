@@ -1,10 +1,7 @@
-<div align="right" style="margin: 15px 0;">
-
-[![Русский](https://img.shields.io/badge/%D0%A0%D0%A3%D0%A1%D0%A1%D0%9A%D0%98%D0%99-0077FF?style=for-the-badge&logo=https://flagcdn.com/ru.svg&logoWidth=20&labelColor=0077FF&color=0077FF)](README.md)
-&nbsp;
-[![English](https://img.shields.io/badge/ENGLISH-00247D?style=for-the-badge&logo=https://flagcdn.com/us.svg&logoWidth=20&labelColor=00247D&color=00247D)](README_EN.md)
-
-</div> 
+<p align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a> 
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+</p>
 <br>
 <br>
 
