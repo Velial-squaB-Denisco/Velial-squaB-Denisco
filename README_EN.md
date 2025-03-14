@@ -1,6 +1,9 @@
 <p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBNYWMgT1MgaW1hZ2UgR2VuZXJhdG9yIGluc3RhbmNlIHZpZXdib3gtaW4gMi4xLjUgTWFjIE9TIHg2NCwgbGlrZSBDZWhpbwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9oLCxMrMmJMi5MAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXZXJzGhgo7gAAAJlJREFUeNpsk0tO20AQhb+bQQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9ZgQ9
-                        
+  <a href="README.md"><img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+  <a href="README_FR.md"><img src="https://img.shields.io/badge/Français-FF0000?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+  <a href="README_DE.md"><img src="https://img.shields.io/badge/Deutsch-000000?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+</p>
 <br>
 <br>
 
