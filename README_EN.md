@@ -1,7 +1,7 @@
 <div align="center">
   <a href="README.md">🇷🇺 Русский</a> | 
   <a href="README_EN.md">🇬🇧 English</a>
-</div>
+</div><br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
