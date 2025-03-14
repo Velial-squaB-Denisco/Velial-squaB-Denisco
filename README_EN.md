@@ -1,7 +1,13 @@
-<div align="center">
-  <a href="README.md">🇷🇺 Русский</a> | 
-  <a href="README_EN.md">🇬🇧 English</a>
-</div><br>
+<div align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/RU-White?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjZjAwIiBkPSJtMCwwaDkwMHY2MDBoLTMwMHYtMzAwaC0zMDB2MzAwaC0zMDB6Ii8+PC9zdmc+&color=032f91&labelColor=da251d"/>
+  </a>
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/EN-White?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHBhdGggZmlsbD0iIzAwMjQ3ZCIgZD0iTTAgMGg2MHYzMEgwWiIvPjxwYXRoIGZmlGw9IiNmZmYiIGQ9Ik0wIDExLjQ0aDYwdjcuMTJIMHoiLz48cGF0aCBmaWxsPSIjY2MyMDE0IiBkPSJNMCAxNC4xN2g2MHYxLjg3SDB6Ii8+PC9zdmc+&color=00247D&labelColor=cf142b"/>
+  </a>
+</div>
+<br>
+<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
