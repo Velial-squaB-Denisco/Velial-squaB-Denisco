@@ -1,11 +1,14 @@
 <p align="right">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge" alt="Russian"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Русский" width="50" />
+    Русский
+  </a> 
   <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge" alt="English"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="50" />
+    English
   </a>
 </p>
+
 <br>
 <br>
 
