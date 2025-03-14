@@ -1,8 +1,8 @@
 <div align="right" style="margin: 15px 0;">
 
-[![Русский](https://img.shields.io/badge/%D0%A0%D0%A3%D0%A1%D0%A1%D0%9A%D0%98%D0%99-0077FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMCwwaDkwMHY2MDBoLTMwMHYtMzAwaC0zMDB2MzAwaC0zMDB6Ii8+PHBhdGggZmlsbD0iIzAwN2ZmZiIgZD0ibTAsMjAwaDkwMHYyMDBoLTkwMHoiLz48cGF0aCBmaWxsPSIjZmYwMDAwIiBkPSJtMCw0MDBoOTAwdjIwMGgtOTAweiIvPjwvc3ZnPg==&logoWidth=20&labelColor=0077FF&color=0077FF)](README.md)
+[![Русский](https://img.shields.io/badge/%D0%A0%D0%A3%D0%A1%D0%A1%D0%9A%D0%98%D0%99-0077FF?style=for-the-badge&logo=https://flagcdn.com/ru.svg&logoWidth=20&labelColor=0077FF&color=0077FF)](README.md)
 &nbsp;
-[![English](https://img.shields.io/badge/ENGLISH-00247D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYwMCI+PHBhdGggZmlsbD0iIzAwMjQ3RCIgZD0iTTAgMGgxMjAwdjYwMEgwVjB6Ii8+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTAgMHY2MDBoMTIwMFYwSDB6IiBmaWxsLW9wYWNpdHk9Ii4zIi8+PHBhdGggZmlsbD0iI0NGMTQyQiIgZD0iTTI0MCAyNDBoNzIwVjM2MEgyNDB6Ii8+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTI0MCAxMjBoNzIwdjEyMEgyNDB6bTAgMzYwaDcyMHYxMjBIMjQwek0wIDI0MGgxMjB2MTIwSDB6bTEwODAgMEgxMjAwdjEyMGgtMTIwek0wIDM2MGgxMjB2MTIwSDB6bTEwODAgMEgxMjAwdjEyMGgtMTIwek02NjAgMGgxMjB2NjAwSDY2MHpNNDIwIDB2NjAwaDEyMFYwSDQyMHoiLz48L3N2Zz4K&logoWidth=20&labelColor=00247D&color=00247D)](README_EN.md)
+[![English](https://img.shields.io/badge/ENGLISH-00247D?style=for-the-badge&logo=https://flagcdn.com/us.svg&logoWidth=20&labelColor=00247D&color=00247D)](README_EN.md)
 
 </div> 
 <br>
