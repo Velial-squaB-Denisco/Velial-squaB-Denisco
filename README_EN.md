@@ -5,7 +5,7 @@
   </a> 
   &nbsp; <!-- Пробел между кнопками -->
   <a href="README_EN.md" style="background-color: #00247D; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" alt="English" width="20" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" alt="English" width="25" />
     English
   </a>
 </p>
