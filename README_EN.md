@@ -1,14 +1,14 @@
 <p align="right">
   <a href="README.md">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Русский" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/50px-Flag_of_Russia.svg.png" alt="Русский" width="30" />
     Русский
   </a> 
+  &nbsp; <!-- Пробел между кнопками -->
   <a href="README_EN.md">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_Kingdom.svg/50px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="30" />
     English
   </a>
 </p>
-
 <br>
 <br>
 
