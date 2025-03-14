@@ -1,10 +1,10 @@
 <div align="right" style="margin: 15px 0;">
 
-[![Русский](https://img.shields.io/badge/%D0%A0%D0%A3%D0%A1%D0%A1%D0%9A%D0%98%D0%99-0077FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMCwwaDkwMHY2MDBoLTMwMHYtMzAwaC0zMDB2MzAwaC0zMDB6Ii8+PHBhdGggZmlsbD0iIzAwN2ZmZiIgZD0ibTAsMjAwaDkwMHYyMDBoLTkwMHoiLz48cGF0aCBmaWxsPSIjZmYwMDAwIiBkPSJtMCw0MDBoOTAwdjIwMGgtOTAweiIvPjwvc3ZnPg==&logoWidth=18&labelColor=0077FF&color=0077FF&link=)](README.md)
+[![Русский](https://img.shields.io/badge/%D0%A0%D0%A3%D0%A1%D0%A1%D0%9A%D0%98%D0%99-0077FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMCwwaDkwMHY2MDBoLTMwMHYtMzAwaC0zMDB2MzAwaC0zMDB6Ii8+PHBhdGggZmlsbD0iIzAwN2ZmZiIgZD0ibTAsMjAwaDkwMHYyMDBoLTkwMHoiLz48cGF0aCBmaWxsPSIjZmYwMDAwIiBkPSJtMCw0MDBoOTAwdjIwMGgtOTAweiIvPjwvc3ZnPg==&logoWidth=20&labelColor=0077FF&color=0077FF)](README.md)
 &nbsp;
-[![English](https://img.shields.io/badge/ENGLISH-1F75FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTMwIDgwMCI+PHBhdGggZmlsbD0iIzFGNzVGRSIgZD0iTTAgMGgxNTMwdjgwMEgweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDB2ODAwaDE1MzBWMHoiIGZpbGwtb3BhY2l0eT0iLjIiLz48cGF0aCBmaWxsPSIjZmYwMDAwIiBkPSJtNjE1LDBoMzAwdjgwMGgtMzAweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im00MTAsMjUwaDcwMHYzMDBoLTcwMHptMTUwLDUwaDUwMHYyMDBoLTIwMHYtMTUwaC0zMDB6bTIwMCwwaDIwMHYyMDBoLTIwMHoiLz48L3N2Zz4=&logoWidth=18&labelColor=1F75FE&color=1F75FE&link=)](README_EN.md)
+[![English](https://img.shields.io/badge/ENGLISH-00247D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIwIDEwMDAiPjxwYXRoIGZpbGw9IiNjZjE0MmIiIGQ9Ik0wIDBoMTkyMHYxMDAwSDB6Ii8+PHBhdGggZmlsbD0iIzAwMjQ3ZCIgZD0iTTAgMHYyMDBoMTkyME0wIDQwMHYyMDBoMTkyME0wIDgwMHYyMDBoMTkyME0wIDYwMHYyMDBoMTkyME0wIDIwMHYyMDBoMTkyMCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDYwMHYyMDBoMTkyME0wIDIwMHYyMDBoMTkyMCIvPjxwYXRoIGZpbGw9IiNjZjE0MmIiIGQ9Ik0wIDBsOTYwIDUwMEgwdjUwbDQwIDIwbDYwLTcwdi0xMDBsNjAgMzAgNDAtMjB2LTMwbDYwIDMwdjEwMGwtNjAgNzB2MTMwbDQwLTIwbDYwIDMwdjEwMGwtNjAgMzB2MTMwbDQwLTIwIDYwIDcwdjEwMGwtNjAgMzB2MTQwbDQwLTIwIDYwIDQwdjEwMGgtOTYweiIvPjwvc3ZnPg==&logoWidth=20&labelColor=00247D&color=00247D)](README_EN.md)
 
-</div> 
+</div>
 <br>
 <br>
 
