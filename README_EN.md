@@ -1,6 +1,13 @@
 <p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a> 
-  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+  <!-- Russian Flag Button -->
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Russian-FFFFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAA70lEQVRYhe3UMU4CQRiG4S8WxEJsbLgB5gKcwMKK2lp5BCy4hK2VJ7Cx9QYmVhxCjQ0kFhKNhRgT3sVhF9hddjHxT3bzzTfzPjO7wzAMwzAMwzD8BxXgBpxHnC8DZ+AhQb4H3IA28Bkh/whcgSrwlSD/BlwG5B+B1xTyPu9+/gR4zSDv8+bnD4H3jPI+b15+B3jNKZ+Z3wSeCsgDLMAFOMzJbwG3BeUx+Q1gXFAek18HhgXlMfk1YFBQHpNfBfoF5TH5FaBXUB6TXwZ6BeUx+SWgW1Aek18EugXlMfkF4L6gPCY/D3QKymPys8BdQXlMfga4LSiPyU8DNwXlMfkp4LqgPCY/CVwVlMfkJ4DLgvKY/DhwUVAekx8DLgrKY/JjwHlBeUx+FDgrKI/JjwCnBeUx+WHgpKA8Jj8EHBeUx+QHgXYB+U9gKCFfBd6BpqR8HXgD9iXlG8ArsCcp3wRegF1J+TbwBOxIyq8AD8C2pHwHuAc2JeV7wB2wISnfB26BNUn5AXADrErKD4ErYEVS/hO4AJYk5YfAObAoKT8CzoB5SfkxcArMScqPgRNgVlJ+AhwDM5LyU+AI+AVmXqLZxZChXQAAAABJRU5ErkJggg==&logoColor=white&labelColor=00247D&color=ffffff"/>
+  </a>
+  
+  <!-- UK Flag Button -->
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/English-FFFFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVRYhe2UMU7DMBSGv6Jx6FJxAS7ACbgAF+ACXIALcAEuwAW4ABfgAlwAiYFhQCrDhFSGqkNbKXTsxE7TdGikfNJr8t7zZz97jmMYhmEYxr9jCWyAB9zHwz3wCjzH8hOwjvT3wGuifg2sErpPwFtC9w4sErpP4CNR/wYsE7pP4CtR/wrcJXQr4DtR/wLcJnQr4CdR/wzcJHQr4DdR/wTcJnQr4C9R/wjcJXQr4JCofwAeEroVcEzUr4B1QrcCTon6e2CT0K2Ac6L+DlgndCvgn9C9BZYJ3Qo4JXQvgUVCtwKOwDKhWwG/ifpLYJPQrYADsEroVsBPov4C2CZ0K2AP7BK6FfCdqP8CdgndCtgB+4RuBXwm6j+B54RuBWyBQ0K3At4T9Z/Aa0K3AjbAMaFbAW+J+m/gLaFbASvgJ6FbAS+GYRiGYRjGP+AP0hY0Z0vjsLwAAAAASUVORK5CYII=&logoColor=white&labelColor=CF142B&color=ffffff"/>
+  </a>
 </p>
 <br>
 <br>
