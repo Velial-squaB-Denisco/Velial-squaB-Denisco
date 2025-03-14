@@ -1,8 +1,10 @@
 <p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
-  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
-  <a href="README_FR.md"><img src="https://img.shields.io/badge/Français-FF0000?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
-  <a href="README_DE.md"><img src="https://img.shields.io/badge/Deutsch-000000?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBNYWMgT1JHQk9leGNvbWVudHMgV2l0aCBTa2luczoAAAABd0lEQVR42mNgGAWjYBSMglEwCkbBSAEk0AERFEUohTqTtQANHoIISwgkNmYOXev2PnzM7MznD2RzlSdFusWZBJH2xhCgAAAABJRU5ErkJggg==" alt="Russian"/>
+  </a>
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBNYWMgT1JHQk9leGNvbWVudHMgV2l0aCBTa2luczoAAAABd0lEQVR42mNgGAWjYBSMglEwCkbBSAEk0AERFEUohTqTtQANHoIISwgkNmYOXev2PnzM7MznD2RzlSdFusWZBJH2xhCgAAAABJRU5ErkJggg==" alt="English"/>
+  </a>
 </p>
 <br>
 <br>
