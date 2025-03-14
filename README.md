@@ -150,8 +150,12 @@
   <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large" alt="Codewars"/>
   </a>
+   <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/> 
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://leetcode-stats-card.vercel.app/api?username=Velial-squaB-Denisco&theme=dark" alt="LeetCode Stats"/>
+  </a>
 </div>
 
 <!-- Контакты -->
