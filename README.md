@@ -147,7 +147,7 @@
 <!-- Достижения -->
 <h2 align="center">🏆 Мои Достижения 🏆</h2>
 <div align="center">
-  <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
+  <a href="https://www.codewars.com/users/Velial-squaB-Denisco">
     <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large" alt="Codewars"/>
   </a>
   <br>
