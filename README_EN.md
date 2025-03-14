@@ -1,14 +1,14 @@
-<p align="right">
-  <a href="README.md" style="display: inline-flex; align-items: center; background: #00247D; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; gap: 8px; transition: all 0.3s ease;">
-    <img src="https://flagcdn.com/ru.svg" width="24" height="18" alt="Русский">
-    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">Русский</span>
+<div align="right" style="margin-bottom: 20px;">
+  <a href="README.md" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 12px; padding: 8px 16px; border-radius: 8px; background: #f8f9fa; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <img src="https://flagcdn.com/ru.svg" width="28" height="21" style="margin-right: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); border-radius: 3px;">
+    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; color: #24292f; font-weight: 500;">Русский</span>
   </a>
-  
-  <a href="README_EN.md" style="display: inline-flex; align-items: center; background: #00247D; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; gap: 8px; transition: all 0.3s ease; margin-left: 10px;">
-    <img src="https://flagcdn.com/us.svg" width="24" height="18" alt="English">
-    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">English</span>
+
+  <a href="README_EN.md" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 12px; padding: 8px 16px; border-radius: 8px; background: #f8f9fa; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <img src="https://flagcdn.com/us.svg" width="28" height="21" style="margin-right: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); border-radius: 3px;">
+    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; color: #24292f; font-weight: 500;">English</span>
   </a>
-</p>
+</div>
 <br>
 <br>
 
