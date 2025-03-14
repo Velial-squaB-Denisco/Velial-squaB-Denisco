@@ -150,11 +150,11 @@
   <a href="https://www.codewars.com/users/ppoi42477@gmail.com">
     <img src="https://www.codewars.com/users/Velial-squaB-Denisco/badges/large" alt="Codewars"/>
   </a>
-   <br>
+  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Velial-squaB-Denisco&theme=onedark&row=2&column=4" alt="Trophies"/>
   <br>
   <a href="https://leetcode.com/Velial-squaB-Denisco/">
-    <img src="https://leetcode-stats-card.vercel.app/api?username=Velial-squaB-Denisco&theme=dark" alt="LeetCode Stats"/>
+    <img src="https://leetcode-stats-card.vercel.app/api?username=Velial-squaB-Denisco&theme=light" alt="LeetCode Stats"/>
   </a>
 </div>
 
