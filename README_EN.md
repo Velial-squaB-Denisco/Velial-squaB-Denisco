@@ -1,11 +1,11 @@
 <p align="right">
-  <a href="README.md" style="color: #00247D;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/50px-Flag_of_Russia.svg.png" alt="Русский" width="30" />
+  <a href="README.md" style="background-color: #00247D; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/50px-Flag_of_Russia.svg.png" alt="Русский" width="20" />
     Русский
   </a> 
   &nbsp; <!-- Пробел между кнопками -->
-  <a href="README_EN.md" style="color: #00247D;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" alt="English" width="30" />
+  <a href="README_EN.md" style="background-color: #00247D; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png" alt="English" width="20" />
     English
   </a>
 </p>
