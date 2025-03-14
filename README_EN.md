@@ -16,26 +16,16 @@
   <p>Data Engineer & Business Intelligence Developer & Software Engineer</p>
 </div>
 
-<!-- GitHub Stats (same images, translated titles) -->
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats..." width="48%"/>
-  <img src="https://github-readme-stats..." width="42%"/>
-  <img src="https://streak-stats..." width="48%"/>
-</div>
+  <!-- Основная статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&cache_seconds=5400" width="48%"/>
 
-<!-- Tech Stack -->
-<h2 align="center">🔧 Tech Stack 🔧</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,postgres,git,github,linux,vscode&theme=dark&perline=10"/>
-  <br>
-  <img src="https://img.shields.io/badge/VBA-217346?..." alt="VBA"/>
-  <img src="https://img.shields.io/badge/Loginom-0055AA?..." alt="Loginom"/>
-</div>
+  <!-- Топ языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake,roff,html,css,dockerfile&title_color=58a6ff&text_color=8b949e&exclude_repo=README-STATS&cache_seconds=5400" width="42%"/>
 
-<!-- Activity Graph -->
-<h2 align="center">📈 Activity 📈</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph..."/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&ring=58a6ff&fire=FF8C00&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e&dates=8b949e&border=00000000&cache_seconds=43200" width="48%"/>
 </div>
 
 <!-- Education -->
