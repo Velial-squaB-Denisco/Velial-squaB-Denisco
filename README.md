@@ -1,7 +1,9 @@
-<div align="center">
-  <a href="README.md">🇷🇺 Русский</a> | 
-  <a href="README_EN.md">🇬🇧 English</a>
-</div><br>
+<p align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/Русский-0055AA?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a> 
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
+</p>
+<br>
+<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
