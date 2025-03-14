@@ -1,8 +1,8 @@
-<div align="right" style="margin: 20px 0;">
+<div align="right" style="margin: 15px 0;">
 
-[![Русский](https://img.shields.io/badge/РУССКИЙ-0077FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjRkZGIiBkPSJtMCwwaDkwMHY2MDBoLTMwMHYtMzAwaC0zMDB2MzAwaC0zMDB6Ii8+PHBhdGggZmlsbD0iIzAwNzdGRiIgZD0ibTAsMjAwaDkwMHYyMDBoLTkwMHoiLz48cGF0aCBmaWxsPSIjRkYwMDAwIiBkPSJtMCw0MDBoOTAwdjIwMGgtOTAweiIvPjwvc3ZnPg==&logoWidth=20&labelColor=0077FF&color=0077FF&link=https://github.com/yourprofile/yourrepo/blob/main/README.md)](README.md)
-&nbsp;&nbsp;
-[![English](https://img.shields.io/badge/ENGLISH-FF4D00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYwMCI+PHBhdGggZmlsbD0iIzAwMjg3NCIgZD0iTTAgMGgxMjAwdjYwMEgweiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0wIDB2NjAwaDEyMDBWMHoiIHN0eWxlPSJmaWxsLW9wYWNpdHk6LjIiLz48cGF0aCBmaWxsPSIjRkYwMDAwIiBkPSJtMzAwLDBoNjAwdjYwMGgtNjAweiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Im00MTAsMjc1djUwaDIzMHYtNTBoLTcwdjE1MGgtOTBWMjc1eiIvPjwvc3ZnPg==&logoWidth=20&labelColor=FF4D00&color=FF4D00&link=https://github.com/yourprofile/yourrepo/blob/main/README_EN.md)](README_EN.md)
+[![Русский](https://img.shields.io/badge/%D0%A0%D0%A3%D0%A1%D0%A1%D0%9A%D0%98%D0%99-0077FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMCwwaDkwMHY2MDBoLTMwMHYtMzAwaC0zMDB2MzAwaC0zMDB6Ii8+PHBhdGggZmlsbD0iIzAwN2ZmZiIgZD0ibTAsMjAwaDkwMHYyMDBoLTkwMHoiLz48cGF0aCBmaWxsPSIjZmYwMDAwIiBkPSJtMCw0MDBoOTAwdjIwMGgtOTAweiIvPjwvc3ZnPg==&logoWidth=18&labelColor=0077FF&color=0077FF&link=)](README.md)
+&nbsp;
+[![English](https://img.shields.io/badge/ENGLISH-1F75FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTMwIDgwMCI+PHBhdGggZmlsbD0iIzFGNzVGRSIgZD0iTTAgMGgxNTMwdjgwMEgweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDB2ODAwaDE1MzBWMHoiIGZpbGwtb3BhY2l0eT0iLjIiLz48cGF0aCBmaWxsPSIjZmYwMDAwIiBkPSJtNjE1LDBoMzAwdjgwMGgtMzAweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im00MTAsMjUwaDcwMHYzMDBoLTcwMHptMTUwLDUwaDUwMHYyMDBoLTIwMHYtMTUwaC0zMDB6bTIwMCwwaDIwMHYyMDBoLTIwMHoiLz48L3N2Zz4=&logoWidth=18&labelColor=1F75FE&color=1F75FE&link=)](README_EN.md)
 
 </div> 
 <br>
