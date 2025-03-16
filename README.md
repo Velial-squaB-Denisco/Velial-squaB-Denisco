@@ -150,7 +150,7 @@
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
 - **🔑 Реализация шифра Виженера**
-  `Python` `Encryption` `Decryption`
+  `Python` `Encryption` `Decryption`<br>
   Реализация алгоритма шифрования и дешифрования с использованием шифра Виженера<br>
   [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/The-Vigener-Cipher)
 
