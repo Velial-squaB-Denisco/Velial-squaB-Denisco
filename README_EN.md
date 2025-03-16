@@ -135,6 +135,11 @@
   Data encryption module development  
   ![Private](https://img.shields.io/badge/Closed-Repo-777777?style=flat&logo=lock)
 
+- **🔑 Vigenère Cipher Implementation**<br>
+  `Python` `Encryption` `Decryption`<br>
+  Implementation of the Vigenère cipher algorithm for encryption and decryption<br>
+  [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/The-Vigener-Cipher)
+
 ---
   
 <h2 align="center">🏆 Achievements 🏆</h2>
