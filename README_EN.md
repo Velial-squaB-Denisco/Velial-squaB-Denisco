@@ -127,7 +127,7 @@
 
 ---
 
-<h3 align="center">👨💻 Computer Security 👨💻</h3>
+<h3 align="center">👩🏻‍💻 Computer Security 👩🏻‍💻</h3>
 
 ### 🔐 Cryptography
 - **🔒 STB Belt 34.101.31-2007 Implementation**  
