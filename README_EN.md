@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Velial-squaB-Denisco&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&cache_seconds=43200" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake,roff,html,css,dockerfile&title_color=58a6ff&text_color=8b949e&exclude_repo=README-STATS&cache_seconds=43200" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velial-squaB-Denisco&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8&hide=procfile,cmake,roff,html,css,dockerfile&title_color=58a6ff&text_color=8b949e&exclude_repo=README-STATS&cache_seconds=43200" width="40%"/>
   <img src="https://streak-stats.demolab.com?user=Velial-squaB-Denisco&theme=nightowl&hide_border=true&background=00000000&ring=58a6ff&fire=FF8C00&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e&dates=8b949e&border=00000000&cache_seconds=43200" width="48%"/>
 </div>
 
