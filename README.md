@@ -154,6 +154,11 @@
   Реализация алгоритма шифрования и дешифрования с использованием шифра Виженера<br>
   [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/The-Vigener-Cipher)
 
+- **🔑 Реализация шифра Rail-Fence**<br>
+  `Python` `Encryption` `Decryption`<br>
+  Реализация алгоритма шифрования и дешифрования с использованием шифра Rail-Fence<br>
+  [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/Rail-Fence-Cipher)
+
 ---
   
 <!-- Достижения -->
