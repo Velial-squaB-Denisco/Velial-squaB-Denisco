@@ -140,6 +140,11 @@
   Implementation of the Vigenère cipher algorithm for encryption and decryption<br>
   [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/The-Vigener-Cipher)
 
+- **🔑 Rail-Fence Cipher Implementation**<br>
+  `Python` `Encryption` `Decryption`<br>
+  Implementation of the encryption and decryption algorithm using the Rail-Fence cipher<br>
+  [![GitHub](https://img.shields.io/badge/View_Code-0055AA?style=flat&logo=github)](https://github.com/Velial-squaB-Denisco/Rail-Fence-Cipher)
+
 ---
   
 <h2 align="center">🏆 Achievements 🏆</h2>
