@@ -3,8 +3,7 @@
   <a href="README_EN.md"><img src="https://img.shields.io/badge/English-007BFF?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,..."/></a>
 </p>
 <br>
-<br>
-
+<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
